@@ -1,5002 +1,2702 @@
 [
   {
     "rank": 1,
-    "es": "como",
-    "en": "as"
+    "es": "tiempo",
+    "en": "time",
+    "type": "noun"
   },
   {
     "rank": 2,
-    "es": "yo",
-    "en": "I"
+    "es": "año",
+    "en": "year",
+    "type": "noun"
   },
   {
     "rank": 3,
-    "es": "su",
-    "en": "his"
+    "es": "día",
+    "en": "day",
+    "type": "noun"
   },
   {
     "rank": 4,
-    "es": "que",
-    "en": "that"
+    "es": "vez",
+    "en": "time/instance",
+    "type": "noun"
   },
   {
     "rank": 5,
-    "es": "él",
-    "en": "he"
+    "es": "vida",
+    "en": "life",
+    "type": "noun"
   },
   {
     "rank": 6,
-    "es": "era",
-    "en": "was"
+    "es": "hombre",
+    "en": "man",
+    "type": "noun"
   },
   {
     "rank": 7,
-    "es": "para",
-    "en": "for"
+    "es": "mujer",
+    "en": "woman",
+    "type": "noun"
   },
   {
     "rank": 8,
-    "es": "en",
-    "en": "on"
+    "es": "casa",
+    "en": "house",
+    "type": "noun"
   },
   {
     "rank": 9,
-    "es": "son",
-    "en": "are"
+    "es": "parte",
+    "en": "part",
+    "type": "noun"
   },
   {
     "rank": 10,
-    "es": "con",
-    "en": "with"
+    "es": "país",
+    "en": "country",
+    "type": "noun"
   },
   {
     "rank": 11,
-    "es": "ellos",
-    "en": "they"
+    "es": "mundo",
+    "en": "world",
+    "type": "noun"
   },
   {
     "rank": 12,
-    "es": "ser",
-    "en": "be"
+    "es": "caso",
+    "en": "case",
+    "type": "noun"
   },
   {
     "rank": 13,
-    "es": "en",
-    "en": "at"
+    "es": "gobierno",
+    "en": "government",
+    "type": "noun"
   },
   {
     "rank": 14,
-    "es": "uno",
-    "en": "one"
+    "es": "trabajo",
+    "en": "work",
+    "type": "noun"
   },
   {
     "rank": 15,
-    "es": "tener",
-    "en": "have"
+    "es": "lugar",
+    "en": "place",
+    "type": "noun"
   },
   {
     "rank": 16,
-    "es": "este",
-    "en": "this"
+    "es": "manera",
+    "en": "manner/way",
+    "type": "noun"
   },
   {
     "rank": 17,
-    "es": "desde",
-    "en": "from"
+    "es": "forma",
+    "en": "form/way",
+    "type": "noun"
   },
   {
     "rank": 18,
-    "es": "por",
-    "en": "by"
+    "es": "punto",
+    "en": "point",
+    "type": "noun"
   },
   {
     "rank": 19,
-    "es": "caliente",
-    "en": "hot"
+    "es": "momento",
+    "en": "moment",
+    "type": "noun"
   },
   {
     "rank": 20,
-    "es": "palabra",
-    "en": "word"
+    "es": "número",
+    "en": "number",
+    "type": "noun"
   },
   {
     "rank": 21,
-    "es": "pero",
-    "en": "but"
+    "es": "grupo",
+    "en": "group",
+    "type": "noun"
   },
   {
     "rank": 22,
-    "es": "qué",
-    "en": "what"
+    "es": "problema",
+    "en": "problem",
+    "type": "noun"
   },
   {
     "rank": 23,
-    "es": "algunos",
-    "en": "some"
+    "es": "mano",
+    "en": "hand",
+    "type": "noun"
   },
   {
     "rank": 24,
-    "es": "es",
-    "en": "is"
+    "es": "estado",
+    "en": "state",
+    "type": "noun"
   },
   {
     "rank": 25,
-    "es": "lo",
-    "en": "it"
+    "es": "padre",
+    "en": "father",
+    "type": "noun"
   },
   {
     "rank": 26,
-    "es": "usted",
-    "en": "you"
+    "es": "madre",
+    "en": "mother",
+    "type": "noun"
   },
   {
     "rank": 27,
-    "es": "o",
-    "en": "or"
+    "es": "hijo",
+    "en": "son",
+    "type": "noun"
   },
   {
     "rank": 28,
-    "es": "tenido",
-    "en": "had"
+    "es": "hija",
+    "en": "daughter",
+    "type": "noun"
   },
   {
     "rank": 29,
-    "es": "la",
-    "en": "the"
+    "es": "amigo",
+    "en": "friend",
+    "type": "noun"
   },
   {
     "rank": 30,
-    "es": "de",
-    "en": "of"
+    "es": "ciudad",
+    "en": "city",
+    "type": "noun"
   },
   {
     "rank": 31,
-    "es": "a",
-    "en": "to"
+    "es": "noche",
+    "en": "night",
+    "type": "noun"
   },
   {
     "rank": 32,
-    "es": "y",
-    "en": "and"
+    "es": "agua",
+    "en": "water",
+    "type": "noun"
   },
   {
     "rank": 33,
-    "es": "un",
-    "en": "a"
+    "es": "historia",
+    "en": "story/history",
+    "type": "noun"
   },
   {
     "rank": 34,
-    "es": "en",
-    "en": "in"
+    "es": "cosa",
+    "en": "thing",
+    "type": "noun"
   },
   {
     "rank": 35,
-    "es": "nos",
-    "en": "we"
+    "es": "guerra",
+    "en": "war",
+    "type": "noun"
   },
   {
     "rank": 36,
-    "es": "lata",
-    "en": "can"
+    "es": "palabra",
+    "en": "word",
+    "type": "noun"
   },
   {
     "rank": 37,
-    "es": "fuera",
-    "en": "out"
+    "es": "razón",
+    "en": "reason",
+    "type": "noun"
   },
   {
     "rank": 38,
-    "es": "otros",
-    "en": "other"
+    "es": "verdad",
+    "en": "truth",
+    "type": "noun"
   },
   {
     "rank": 39,
-    "es": "eran",
-    "en": "were"
+    "es": "fuerza",
+    "en": "force/strength",
+    "type": "noun"
   },
   {
     "rank": 40,
-    "es": "que",
-    "en": "which"
+    "es": "cara",
+    "en": "face",
+    "type": "noun"
   },
   {
     "rank": 41,
-    "es": "hacer",
-    "en": "do"
+    "es": "tipo",
+    "en": "type/guy",
+    "type": "noun"
   },
   {
     "rank": 42,
-    "es": "su",
-    "en": "their"
+    "es": "puerta",
+    "en": "door",
+    "type": "noun"
   },
   {
     "rank": 43,
-    "es": "tiempo",
-    "en": "time"
+    "es": "nombre",
+    "en": "name",
+    "type": "noun"
   },
   {
     "rank": 44,
-    "es": "si",
-    "en": "if"
+    "es": "ojo",
+    "en": "eye",
+    "type": "noun"
   },
   {
     "rank": 45,
-    "es": "lo hará",
-    "en": "will"
+    "es": "calle",
+    "en": "street",
+    "type": "noun"
   },
   {
     "rank": 46,
-    "es": "cómo",
-    "en": "how"
+    "es": "señor",
+    "en": "sir/Mr.",
+    "type": "noun"
   },
   {
     "rank": 47,
-    "es": "dicho",
-    "en": "said"
+    "es": "señora",
+    "en": "lady/Mrs.",
+    "type": "noun"
   },
   {
     "rank": 48,
-    "es": "un",
-    "en": "an"
+    "es": "niño",
+    "en": "boy/child",
+    "type": "noun"
   },
   {
     "rank": 49,
-    "es": "cada",
-    "en": "each"
+    "es": "niña",
+    "en": "girl",
+    "type": "noun"
   },
   {
     "rank": 50,
-    "es": "decir",
-    "en": "tell"
+    "es": "ejemplo",
+    "en": "example",
+    "type": "noun"
   },
   {
     "rank": 51,
-    "es": "hace",
-    "en": "does"
+    "es": "presidente",
+    "en": "president",
+    "type": "noun"
   },
   {
     "rank": 52,
-    "es": "conjunto",
-    "en": "set"
+    "es": "cuerpo",
+    "en": "body",
+    "type": "noun"
   },
   {
     "rank": 53,
-    "es": "tres",
-    "en": "three"
+    "es": "fin",
+    "en": "end",
+    "type": "noun"
   },
   {
     "rank": 54,
-    "es": "querer",
-    "en": "want"
+    "es": "obra",
+    "en": "work/play",
+    "type": "noun"
   },
   {
     "rank": 55,
-    "es": "aire",
-    "en": "air"
+    "es": "ley",
+    "en": "law",
+    "type": "noun"
   },
   {
     "rank": 56,
-    "es": "así",
-    "en": "well"
+    "es": "época",
+    "en": "era/epoch",
+    "type": "noun"
   },
   {
     "rank": 57,
-    "es": "también",
-    "en": "also"
+    "es": "familia",
+    "en": "family",
+    "type": "noun"
   },
   {
     "rank": 58,
-    "es": "jugar",
-    "en": "play"
+    "es": "gente",
+    "en": "people",
+    "type": "noun"
   },
   {
     "rank": 59,
-    "es": "pequeño",
-    "en": "small"
+    "es": "luz",
+    "en": "light",
+    "type": "noun"
   },
   {
     "rank": 60,
-    "es": "fin",
-    "en": "end"
+    "es": "voz",
+    "en": "voice",
+    "type": "noun"
   },
   {
     "rank": 61,
-    "es": "poner",
-    "en": "put"
+    "es": "tierra",
+    "en": "earth/land",
+    "type": "noun"
   },
   {
     "rank": 62,
-    "es": "casa",
-    "en": "home"
+    "es": "libro",
+    "en": "book",
+    "type": "noun"
   },
   {
     "rank": 63,
-    "es": "leer",
-    "en": "read"
+    "es": "cabeza",
+    "en": "head",
+    "type": "noun"
   },
   {
     "rank": 64,
-    "es": "mano",
-    "en": "hand"
+    "es": "siglo",
+    "en": "century",
+    "type": "noun"
   },
   {
     "rank": 65,
-    "es": "puerto",
-    "en": "port"
+    "es": "hora",
+    "en": "hour",
+    "type": "noun"
   },
   {
     "rank": 66,
-    "es": "grande",
-    "en": "large"
+    "es": "amor",
+    "en": "love",
+    "type": "noun"
   },
   {
     "rank": 67,
-    "es": "deletrear",
-    "en": "spell"
+    "es": "muerte",
+    "en": "death",
+    "type": "noun"
   },
   {
     "rank": 68,
-    "es": "añadir",
-    "en": "add"
+    "es": "ministro",
+    "en": "minister",
+    "type": "noun"
   },
   {
     "rank": 69,
-    "es": "incluso",
-    "en": "even"
+    "es": "millón",
+    "en": "million",
+    "type": "noun"
   },
   {
     "rank": 70,
-    "es": "tierra",
-    "en": "land"
+    "es": "mes",
+    "en": "month",
+    "type": "noun"
   },
   {
     "rank": 71,
-    "es": "aquí",
-    "en": "here"
+    "es": "policía",
+    "en": "police",
+    "type": "noun"
   },
   {
     "rank": 72,
-    "es": "debe",
-    "en": "must"
+    "es": "sistema",
+    "en": "system",
+    "type": "noun"
   },
   {
     "rank": 73,
-    "es": "grande",
-    "en": "big"
+    "es": "general",
+    "en": "general",
+    "type": "noun"
   },
   {
     "rank": 74,
-    "es": "alto",
-    "en": "high"
+    "es": "empresa",
+    "en": "company",
+    "type": "noun"
   },
   {
     "rank": 75,
-    "es": "tal",
-    "en": "such"
+    "es": "campo",
+    "en": "field/countryside",
+    "type": "noun"
   },
   {
     "rank": 76,
-    "es": "siga",
-    "en": "follow"
+    "es": "pueblo",
+    "en": "town/people",
+    "type": "noun"
   },
   {
     "rank": 77,
-    "es": "acto",
-    "en": "act"
+    "es": "esposo",
+    "en": "husband",
+    "type": "noun"
   },
   {
     "rank": 78,
-    "es": "por qué",
-    "en": "why"
+    "es": "esposa",
+    "en": "wife",
+    "type": "noun"
   },
   {
     "rank": 79,
-    "es": "preguntar",
-    "en": "ask"
+    "es": "fuego",
+    "en": "fire",
+    "type": "noun"
   },
   {
     "rank": 80,
-    "es": "hombres",
-    "en": "men"
+    "es": "sangre",
+    "en": "blood",
+    "type": "noun"
   },
   {
     "rank": 81,
-    "es": "cambio",
-    "en": "change"
+    "es": "centro",
+    "en": "center",
+    "type": "noun"
   },
   {
     "rank": 82,
-    "es": "se fue",
-    "en": "went"
+    "es": "música",
+    "en": "music",
+    "type": "noun"
   },
   {
     "rank": 83,
-    "es": "luz",
-    "en": "light"
+    "es": "habitación",
+    "en": "room",
+    "type": "noun"
   },
   {
     "rank": 84,
-    "es": "tipo",
-    "en": "kind"
+    "es": "papel",
+    "en": "paper/role",
+    "type": "noun"
   },
   {
     "rank": 85,
-    "es": "fuera",
-    "en": "off"
+    "es": "minuto",
+    "en": "minute",
+    "type": "noun"
   },
   {
     "rank": 86,
-    "es": "necesitará",
-    "en": "need"
+    "es": "boca",
+    "en": "mouth",
+    "type": "noun"
   },
   {
     "rank": 87,
-    "es": "casa",
-    "en": "house"
+    "es": "pie",
+    "en": "foot",
+    "type": "noun"
   },
   {
     "rank": 88,
-    "es": "imagen",
-    "en": "picture"
+    "es": "brazo",
+    "en": "arm",
+    "type": "noun"
   },
   {
     "rank": 89,
-    "es": "tratar",
-    "en": "try"
+    "es": "pierna",
+    "en": "leg",
+    "type": "noun"
   },
   {
     "rank": 90,
-    "es": "nosotros",
-    "en": "us"
+    "es": "corazón",
+    "en": "heart",
+    "type": "noun"
   },
   {
     "rank": 91,
-    "es": "de nuevo",
-    "en": "again"
+    "es": "cuenta",
+    "en": "account/bill",
+    "type": "noun"
   },
   {
     "rank": 92,
-    "es": "animal",
-    "en": "animal"
+    "es": "espacio",
+    "en": "space",
+    "type": "noun"
   },
   {
     "rank": 93,
-    "es": "punto",
-    "en": "point"
+    "es": "tarde",
+    "en": "afternoon",
+    "type": "noun"
   },
   {
     "rank": 94,
-    "es": "madre",
-    "en": "mother"
+    "es": "mañana",
+    "en": "morning",
+    "type": "noun"
   },
   {
     "rank": 95,
-    "es": "mundo",
-    "en": "world"
+    "es": "semana",
+    "en": "week",
+    "type": "noun"
   },
   {
     "rank": 96,
-    "es": "cerca",
-    "en": "near"
+    "es": "información",
+    "en": "information",
+    "type": "noun"
   },
   {
     "rank": 97,
-    "es": "construir",
-    "en": "build"
+    "es": "idea",
+    "en": "idea",
+    "type": "noun"
   },
   {
     "rank": 98,
-    "es": "auto",
-    "en": "self"
+    "es": "nivel",
+    "en": "level",
+    "type": "noun"
   },
   {
     "rank": 99,
-    "es": "tierra",
-    "en": "earth"
+    "es": "mar",
+    "en": "sea",
+    "type": "noun"
   },
   {
     "rank": 100,
-    "es": "padre",
-    "en": "father"
+    "es": "modo",
+    "en": "way/mode",
+    "type": "noun"
   },
   {
     "rank": 101,
-    "es": "cualquier",
-    "en": "any"
+    "es": "calidad",
+    "en": "quality",
+    "type": "noun"
   },
   {
     "rank": 102,
-    "es": "nuevo",
-    "en": "new"
+    "es": "presencia",
+    "en": "presence",
+    "type": "noun"
   },
   {
     "rank": 103,
-    "es": "trabajo",
-    "en": "work"
+    "es": "rey",
+    "en": "king",
+    "type": "noun"
   },
   {
     "rank": 104,
-    "es": "parte",
-    "en": "part"
+    "es": "reina",
+    "en": "queen",
+    "type": "noun"
   },
   {
     "rank": 105,
-    "es": "tomar",
-    "en": "take"
+    "es": "esfuerzo",
+    "en": "effort",
+    "type": "noun"
   },
   {
     "rank": 106,
-    "es": "conseguir",
-    "en": "get"
+    "es": "estudio",
+    "en": "study",
+    "type": "noun"
   },
   {
     "rank": 107,
-    "es": "lugar",
-    "en": "place"
+    "es": "interés",
+    "en": "interest",
+    "type": "noun"
   },
   {
     "rank": 108,
-    "es": "hecho",
-    "en": "made"
+    "es": "valor",
+    "en": "value/courage",
+    "type": "noun"
   },
   {
     "rank": 109,
-    "es": "vivir",
-    "en": "live"
+    "es": "color",
+    "en": "color",
+    "type": "noun"
   },
   {
     "rank": 110,
-    "es": "donde",
-    "en": "where"
+    "es": "viaje",
+    "en": "trip",
+    "type": "noun"
   },
   {
     "rank": 111,
-    "es": "después",
-    "en": "after"
+    "es": "carta",
+    "en": "letter",
+    "type": "noun"
   },
   {
     "rank": 112,
-    "es": "espalda",
-    "en": "back"
+    "es": "carrera",
+    "en": "career/race",
+    "type": "noun"
   },
   {
     "rank": 113,
-    "es": "poco",
-    "en": "little"
+    "es": "objeto",
+    "en": "object",
+    "type": "noun"
   },
   {
     "rank": 114,
-    "es": "sólo",
-    "en": "only"
+    "es": "servicio",
+    "en": "service",
+    "type": "noun"
   },
   {
     "rank": 115,
-    "es": "ronda",
-    "en": "round"
+    "es": "voluntad",
+    "en": "will",
+    "type": "noun"
   },
   {
     "rank": 116,
-    "es": "hombre",
-    "en": "man"
+    "es": "tema",
+    "en": "theme/topic",
+    "type": "noun"
   },
   {
     "rank": 117,
-    "es": "años",
-    "en": "year"
+    "es": "experiencia",
+    "en": "experience",
+    "type": "noun"
   },
   {
     "rank": 118,
-    "es": "vino",
-    "en": "came"
+    "es": "imagen",
+    "en": "image",
+    "type": "noun"
   },
   {
     "rank": 119,
-    "es": "show",
-    "en": "show"
+    "es": "región",
+    "en": "region",
+    "type": "noun"
   },
   {
     "rank": 120,
-    "es": "cada",
-    "en": "every"
+    "es": "miedo",
+    "en": "fear",
+    "type": "noun"
   },
   {
     "rank": 121,
-    "es": "buena",
-    "en": "good"
+    "es": "ventana",
+    "en": "window",
+    "type": "noun"
   },
   {
     "rank": 122,
-    "es": "me",
-    "en": "me"
+    "es": "mesa",
+    "en": "table",
+    "type": "noun"
   },
   {
     "rank": 123,
-    "es": "dar",
-    "en": "give"
+    "es": "silla",
+    "en": "chair",
+    "type": "noun"
   },
   {
     "rank": 124,
-    "es": "nuestro",
-    "en": "our"
+    "es": "cama",
+    "en": "bed",
+    "type": "noun"
   },
   {
     "rank": 125,
-    "es": "bajo",
-    "en": "under"
+    "es": "coche",
+    "en": "car",
+    "type": "noun"
   },
   {
     "rank": 126,
-    "es": "nombre",
-    "en": "name"
+    "es": "carro",
+    "en": "car",
+    "type": "noun"
   },
   {
     "rank": 127,
-    "es": "muy",
-    "en": "very"
+    "es": "auto",
+    "en": "car",
+    "type": "noun"
   },
   {
     "rank": 128,
-    "es": "a través de",
-    "en": "through"
+    "es": "moto",
+    "en": "motorcycle",
+    "type": "noun"
   },
   {
     "rank": 129,
-    "es": "sólo",
-    "en": "just"
+    "es": "tren",
+    "en": "train",
+    "type": "noun"
   },
   {
     "rank": 130,
-    "es": "forma",
-    "en": "form"
+    "es": "avión",
+    "en": "plane",
+    "type": "noun"
   },
   {
     "rank": 131,
-    "es": "frase",
-    "en": "sentence"
+    "es": "barco",
+    "en": "boat",
+    "type": "noun"
   },
   {
     "rank": 132,
-    "es": "gran",
-    "en": "great"
+    "es": "techo",
+    "en": "roof/ceiling",
+    "type": "noun"
   },
   {
     "rank": 133,
-    "es": "pensar",
-    "en": "think"
+    "es": "suelo",
+    "en": "floor/ground",
+    "type": "noun"
   },
   {
     "rank": 134,
-    "es": "decir",
-    "en": "say"
+    "es": "pared",
+    "en": "wall",
+    "type": "noun"
   },
   {
     "rank": 135,
-    "es": "ayudar",
-    "en": "help"
+    "es": "cocina",
+    "en": "kitchen",
+    "type": "noun"
   },
   {
     "rank": 136,
-    "es": "bajo",
-    "en": "low"
+    "es": "baño",
+    "en": "bathroom",
+    "type": "noun"
   },
   {
     "rank": 137,
-    "es": "línea",
-    "en": "line"
+    "es": "sala",
+    "en": "room/living room",
+    "type": "noun"
   },
   {
     "rank": 138,
-    "es": "ser distinto",
-    "en": "differ"
+    "es": "comedor",
+    "en": "dining room",
+    "type": "noun"
   },
   {
     "rank": 139,
-    "es": "a su vez",
-    "en": "turn"
+    "es": "jardín",
+    "en": "garden",
+    "type": "noun"
   },
   {
     "rank": 140,
-    "es": "causa",
-    "en": "cause"
+    "es": "garaje",
+    "en": "garage",
+    "type": "noun"
   },
   {
     "rank": 141,
-    "es": "mucho",
-    "en": "much"
+    "es": "edificio",
+    "en": "building",
+    "type": "noun"
   },
   {
     "rank": 142,
-    "es": "significará",
-    "en": "mean"
+    "es": "oficina",
+    "en": "office",
+    "type": "noun"
   },
   {
     "rank": 143,
-    "es": "antes",
-    "en": "before"
+    "es": "escuela",
+    "en": "school",
+    "type": "noun"
   },
   {
     "rank": 144,
-    "es": "movimiento",
-    "en": "move"
+    "es": "universidad",
+    "en": "university",
+    "type": "noun"
   },
   {
     "rank": 145,
-    "es": "derecho",
-    "en": "right"
+    "es": "hospital",
+    "en": "hospital",
+    "type": "noun"
   },
   {
     "rank": 146,
-    "es": "niño",
-    "en": "boy"
+    "es": "iglesia",
+    "en": "church",
+    "type": "noun"
   },
   {
     "rank": 147,
-    "es": "viejo",
-    "en": "old"
+    "es": "tienda",
+    "en": "store",
+    "type": "noun"
   },
   {
     "rank": 148,
-    "es": "demasiado",
-    "en": "too"
+    "es": "mercado",
+    "en": "market",
+    "type": "noun"
   },
   {
     "rank": 149,
-    "es": "misma",
-    "en": "same"
+    "es": "restaurante",
+    "en": "restaurant",
+    "type": "noun"
   },
   {
     "rank": 150,
-    "es": "ella",
-    "en": "she"
+    "es": "hotel",
+    "en": "hotel",
+    "type": "noun"
   },
   {
     "rank": 151,
-    "es": "todo",
-    "en": "all"
+    "es": "banco",
+    "en": "bank",
+    "type": "noun"
   },
   {
     "rank": 152,
-    "es": "hay",
-    "en": "there"
+    "es": "parque",
+    "en": "park",
+    "type": "noun"
   },
   {
     "rank": 153,
-    "es": "cuando",
-    "en": "when"
+    "es": "playa",
+    "en": "beach",
+    "type": "noun"
   },
   {
     "rank": 154,
-    "es": "hasta",
-    "en": "up"
+    "es": "montaña",
+    "en": "mountain",
+    "type": "noun"
   },
   {
     "rank": 155,
-    "es": "uso",
-    "en": "use"
+    "es": "río",
+    "en": "river",
+    "type": "noun"
   },
   {
     "rank": 156,
-    "es": "su",
-    "en": "your"
+    "es": "lago",
+    "en": "lake",
+    "type": "noun"
   },
   {
     "rank": 157,
-    "es": "camino",
-    "en": "way"
+    "es": "isla",
+    "en": "island",
+    "type": "noun"
   },
   {
     "rank": 158,
-    "es": "acerca",
-    "en": "about"
+    "es": "bosque",
+    "en": "forest",
+    "type": "noun"
   },
   {
     "rank": 159,
-    "es": "muchos",
-    "en": "many"
+    "es": "árbol",
+    "en": "tree",
+    "type": "noun"
   },
   {
     "rank": 160,
-    "es": "entonces",
-    "en": "then"
+    "es": "flor",
+    "en": "flower",
+    "type": "noun"
   },
   {
     "rank": 161,
-    "es": "ellos",
-    "en": "them"
+    "es": "planta",
+    "en": "plant",
+    "type": "noun"
   },
   {
     "rank": 162,
-    "es": "escribir",
-    "en": "write"
+    "es": "hoja",
+    "en": "leaf/sheet",
+    "type": "noun"
   },
   {
     "rank": 163,
-    "es": "haría",
-    "en": "would"
+    "es": "fruta",
+    "en": "fruit",
+    "type": "noun"
   },
   {
     "rank": 164,
-    "es": "como",
-    "en": "like"
+    "es": "manzana",
+    "en": "apple",
+    "type": "noun"
   },
   {
     "rank": 165,
-    "es": "así",
-    "en": "so"
+    "es": "naranja",
+    "en": "orange",
+    "type": "noun"
   },
   {
     "rank": 166,
-    "es": "éstos",
-    "en": "these"
+    "es": "plátano",
+    "en": "banana",
+    "type": "noun"
   },
   {
     "rank": 167,
-    "es": "su",
-    "en": "her"
+    "es": "uva",
+    "en": "grape",
+    "type": "noun"
   },
   {
     "rank": 168,
-    "es": "largo",
-    "en": "long"
+    "es": "pan",
+    "en": "bread",
+    "type": "noun"
   },
   {
     "rank": 169,
-    "es": "hacer",
-    "en": "make"
+    "es": "leche",
+    "en": "milk",
+    "type": "noun"
   },
   {
     "rank": 170,
-    "es": "cosa",
-    "en": "thing"
+    "es": "queso",
+    "en": "cheese",
+    "type": "noun"
   },
   {
     "rank": 171,
-    "es": "ver",
-    "en": "see"
+    "es": "carne",
+    "en": "meat",
+    "type": "noun"
   },
   {
     "rank": 172,
-    "es": "él",
-    "en": "him"
+    "es": "pollo",
+    "en": "chicken",
+    "type": "noun"
   },
   {
     "rank": 173,
-    "es": "dos",
-    "en": "two"
+    "es": "pescado",
+    "en": "fish",
+    "type": "noun"
   },
   {
     "rank": 174,
-    "es": "tiene",
-    "en": "has"
+    "es": "huevo",
+    "en": "egg",
+    "type": "noun"
   },
   {
     "rank": 175,
-    "es": "buscar",
-    "en": "look"
+    "es": "arroz",
+    "en": "rice",
+    "type": "noun"
   },
   {
     "rank": 176,
-    "es": "más",
-    "en": "more"
+    "es": "azúcar",
+    "en": "sugar",
+    "type": "noun"
   },
   {
     "rank": 177,
-    "es": "día",
-    "en": "day"
+    "es": "sal",
+    "en": "salt",
+    "type": "noun"
   },
   {
     "rank": 178,
-    "es": "podía",
-    "en": "could"
+    "es": "café",
+    "en": "coffee",
+    "type": "noun"
   },
   {
     "rank": 179,
-    "es": "ir",
-    "en": "go"
+    "es": "té",
+    "en": "tea",
+    "type": "noun"
   },
   {
     "rank": 180,
-    "es": "venir",
-    "en": "come"
+    "es": "vino",
+    "en": "wine",
+    "type": "noun"
   },
   {
     "rank": 181,
-    "es": "hizo",
-    "en": "did"
+    "es": "cerveza",
+    "en": "beer",
+    "type": "noun"
   },
   {
     "rank": 182,
-    "es": "número",
-    "en": "number"
+    "es": "comida",
+    "en": "food/meal",
+    "type": "noun"
   },
   {
     "rank": 183,
-    "es": "sonar",
-    "en": "sound"
+    "es": "cena",
+    "en": "dinner",
+    "type": "noun"
   },
   {
     "rank": 184,
-    "es": "no",
-    "en": "no"
+    "es": "almuerzo",
+    "en": "lunch",
+    "type": "noun"
   },
   {
     "rank": 185,
-    "es": "más",
-    "en": "most"
+    "es": "desayuno",
+    "en": "breakfast",
+    "type": "noun"
   },
   {
     "rank": 186,
-    "es": "personas",
-    "en": "people"
+    "es": "perro",
+    "en": "dog",
+    "type": "noun"
   },
   {
     "rank": 187,
-    "es": "mi",
-    "en": "my"
+    "es": "gato",
+    "en": "cat",
+    "type": "noun"
   },
   {
     "rank": 188,
-    "es": "sobre",
-    "en": "over"
+    "es": "caballo",
+    "en": "horse",
+    "type": "noun"
   },
   {
     "rank": 189,
-    "es": "saber",
-    "en": "know"
+    "es": "vaca",
+    "en": "cow",
+    "type": "noun"
   },
   {
     "rank": 190,
-    "es": "agua",
-    "en": "water"
+    "es": "cerdo",
+    "en": "pig",
+    "type": "noun"
   },
   {
     "rank": 191,
-    "es": "que",
-    "en": "than"
+    "es": "pájaro",
+    "en": "bird",
+    "type": "noun"
   },
   {
     "rank": 192,
-    "es": "llamada",
-    "en": "call"
+    "es": "pez",
+    "en": "fish (live)",
+    "type": "noun"
   },
   {
     "rank": 193,
-    "es": "primero",
-    "en": "first"
+    "es": "animal",
+    "en": "animal",
+    "type": "noun"
   },
   {
     "rank": 194,
-    "es": "que",
-    "en": "who"
+    "es": "ropa",
+    "en": "clothing",
+    "type": "noun"
   },
   {
     "rank": 195,
-    "es": "puede",
-    "en": "may"
+    "es": "camisa",
+    "en": "shirt",
+    "type": "noun"
   },
   {
     "rank": 196,
-    "es": "abajo",
-    "en": "down"
+    "es": "pantalón",
+    "en": "pants",
+    "type": "noun"
   },
   {
     "rank": 197,
-    "es": "lado",
-    "en": "side"
+    "es": "vestido",
+    "en": "dress",
+    "type": "noun"
   },
   {
     "rank": 198,
-    "es": "estado",
-    "en": "been"
+    "es": "zapato",
+    "en": "shoe",
+    "type": "noun"
   },
   {
     "rank": 199,
-    "es": "ahora",
-    "en": "now"
+    "es": "sombrero",
+    "en": "hat",
+    "type": "noun"
   },
   {
     "rank": 200,
-    "es": "encontrar",
-    "en": "find"
+    "es": "abrigo",
+    "en": "coat",
+    "type": "noun"
   },
   {
     "rank": 201,
-    "es": "cabeza",
-    "en": "head"
+    "es": "chaqueta",
+    "en": "jacket",
+    "type": "noun"
   },
   {
     "rank": 202,
-    "es": "de pie",
-    "en": "stand"
+    "es": "falda",
+    "en": "skirt",
+    "type": "noun"
   },
   {
     "rank": 203,
-    "es": "propio",
-    "en": "own"
+    "es": "calcetín",
+    "en": "sock",
+    "type": "noun"
   },
   {
     "rank": 204,
-    "es": "página",
-    "en": "page"
+    "es": "guante",
+    "en": "glove",
+    "type": "noun"
   },
   {
     "rank": 205,
-    "es": "debería",
-    "en": "should"
+    "es": "bufanda",
+    "en": "scarf",
+    "type": "noun"
   },
   {
     "rank": 206,
-    "es": "país",
-    "en": "country"
+    "es": "bolso",
+    "en": "bag/purse",
+    "type": "noun"
   },
   {
     "rank": 207,
-    "es": "encontrado",
-    "en": "found"
+    "es": "mochila",
+    "en": "backpack",
+    "type": "noun"
   },
   {
     "rank": 208,
-    "es": "respuesta",
-    "en": "answer"
+    "es": "reloj",
+    "en": "watch/clock",
+    "type": "noun"
   },
   {
     "rank": 209,
-    "es": "escuela",
-    "en": "school"
+    "es": "anillo",
+    "en": "ring",
+    "type": "noun"
   },
   {
     "rank": 210,
-    "es": "crecer",
-    "en": "grow"
+    "es": "collar",
+    "en": "necklace",
+    "type": "noun"
   },
   {
     "rank": 211,
-    "es": "estudio",
-    "en": "study"
+    "es": "pulsera",
+    "en": "bracelet",
+    "type": "noun"
   },
   {
     "rank": 212,
-    "es": "todavía",
-    "en": "still"
+    "es": "gafas",
+    "en": "glasses",
+    "type": "noun"
   },
   {
     "rank": 213,
-    "es": "aprender",
-    "en": "learn"
+    "es": "lápiz",
+    "en": "pencil",
+    "type": "noun"
   },
   {
     "rank": 214,
-    "es": "planta",
-    "en": "plant"
+    "es": "pluma",
+    "en": "pen/feather",
+    "type": "noun"
   },
   {
     "rank": 215,
-    "es": "cubierta",
-    "en": "cover"
+    "es": "cuaderno",
+    "en": "notebook",
+    "type": "noun"
   },
   {
     "rank": 216,
-    "es": "alimentos",
-    "en": "food"
+    "es": "regla",
+    "en": "ruler/rule",
+    "type": "noun"
   },
   {
     "rank": 217,
-    "es": "sol",
-    "en": "sun"
+    "es": "goma",
+    "en": "eraser/rubber",
+    "type": "noun"
   },
   {
     "rank": 218,
-    "es": "cuatro",
-    "en": "four"
+    "es": "tijera",
+    "en": "scissors",
+    "type": "noun"
   },
   {
     "rank": 219,
-    "es": "entre",
-    "en": "between"
+    "es": "ordenador",
+    "en": "computer",
+    "type": "noun"
   },
   {
     "rank": 220,
-    "es": "estado",
-    "en": "state"
+    "es": "computadora",
+    "en": "computer",
+    "type": "noun"
   },
   {
     "rank": 221,
-    "es": "mantener",
-    "en": "keep"
+    "es": "teléfono",
+    "en": "telephone",
+    "type": "noun"
   },
   {
     "rank": 222,
-    "es": "ojo",
-    "en": "eye"
+    "es": "móvil",
+    "en": "mobile/cellphone",
+    "type": "noun"
   },
   {
     "rank": 223,
-    "es": "nunca",
-    "en": "never"
+    "es": "celular",
+    "en": "cellphone",
+    "type": "noun"
   },
   {
     "rank": 224,
-    "es": "último",
-    "en": "last"
+    "es": "televisión",
+    "en": "television",
+    "type": "noun"
   },
   {
     "rank": 225,
-    "es": "dejar",
-    "en": "let"
+    "es": "radio",
+    "en": "radio",
+    "type": "noun"
   },
   {
     "rank": 226,
-    "es": "pensado",
-    "en": "thought"
+    "es": "cámara",
+    "en": "camera",
+    "type": "noun"
   },
   {
     "rank": 227,
-    "es": "ciudad",
-    "en": "city"
+    "es": "película",
+    "en": "film/movie",
+    "type": "noun"
   },
   {
     "rank": 228,
-    "es": "árbol",
-    "en": "tree"
+    "es": "canción",
+    "en": "song",
+    "type": "noun"
   },
   {
     "rank": 229,
-    "es": "cruzar",
-    "en": "cross"
+    "es": "baile",
+    "en": "dance",
+    "type": "noun"
   },
   {
     "rank": 230,
-    "es": "granja",
-    "en": "farm"
+    "es": "fiesta",
+    "en": "party",
+    "type": "noun"
   },
   {
     "rank": 231,
-    "es": "duro",
-    "en": "hard"
+    "es": "juego",
+    "en": "game",
+    "type": "noun"
   },
   {
     "rank": 232,
-    "es": "inicio",
-    "en": "start"
+    "es": "deporte",
+    "en": "sport",
+    "type": "noun"
   },
   {
     "rank": 233,
-    "es": "podría",
-    "en": "might"
+    "es": "fútbol",
+    "en": "soccer",
+    "type": "noun"
   },
   {
     "rank": 234,
-    "es": "historia",
-    "en": "story"
+    "es": "tenis",
+    "en": "tennis",
+    "type": "noun"
   },
   {
     "rank": 235,
-    "es": "sierra",
-    "en": "saw"
+    "es": "equipo",
+    "en": "team/equipment",
+    "type": "noun"
   },
   {
     "rank": 236,
-    "es": "ahora",
-    "en": "far"
+    "es": "partido",
+    "en": "match/party",
+    "type": "noun"
   },
   {
     "rank": 237,
-    "es": "mar",
-    "en": "sea"
+    "es": "pelota",
+    "en": "ball",
+    "type": "noun"
   },
   {
     "rank": 238,
-    "es": "dibujar",
-    "en": "draw"
+    "es": "balón",
+    "en": "ball",
+    "type": "noun"
   },
   {
     "rank": 239,
-    "es": "izquierda",
-    "en": "left"
+    "es": "premio",
+    "en": "prize/award",
+    "type": "noun"
   },
   {
     "rank": 240,
-    "es": "tarde",
-    "en": "late"
+    "es": "regalo",
+    "en": "gift",
+    "type": "noun"
   },
   {
     "rank": 241,
-    "es": "ejecutar",
-    "en": "run"
+    "es": "sorpresa",
+    "en": "surprise",
+    "type": "noun"
   },
   {
     "rank": 242,
-    "es": "no",
-    "en": "don't"
+    "es": "secreto",
+    "en": "secret",
+    "type": "noun"
   },
   {
     "rank": 243,
-    "es": "mientras",
-    "en": "while"
+    "es": "mentira",
+    "en": "lie",
+    "type": "noun"
   },
   {
     "rank": 244,
-    "es": "prensa",
-    "en": "press"
+    "es": "broma",
+    "en": "joke",
+    "type": "noun"
   },
   {
     "rank": 245,
-    "es": "Cerrar",
-    "en": "close"
+    "es": "sonrisa",
+    "en": "smile",
+    "type": "noun"
   },
   {
     "rank": 246,
-    "es": "noche",
-    "en": "night"
+    "es": "risa",
+    "en": "laugh",
+    "type": "noun"
   },
   {
     "rank": 247,
-    "es": "reales",
-    "en": "real"
+    "es": "llanto",
+    "en": "cry/weeping",
+    "type": "noun"
   },
   {
     "rank": 248,
-    "es": "vida",
-    "en": "life"
+    "es": "lágrima",
+    "en": "tear",
+    "type": "noun"
   },
   {
     "rank": 249,
-    "es": "pocos",
-    "en": "few"
+    "es": "sueño",
+    "en": "dream/sleep",
+    "type": "noun"
   },
   {
     "rank": 250,
-    "es": "norte",
-    "en": "north"
+    "es": "pesadilla",
+    "en": "nightmare",
+    "type": "noun"
   },
   {
     "rank": 251,
-    "es": "libro",
-    "en": "book"
+    "es": "recuerdo",
+    "en": "memory",
+    "type": "noun"
   },
   {
     "rank": 252,
-    "es": "llevar",
-    "en": "carry"
+    "es": "memoria",
+    "en": "memory",
+    "type": "noun"
   },
   {
     "rank": 253,
-    "es": "tomó",
-    "en": "took"
+    "es": "olvido",
+    "en": "forgetfulness",
+    "type": "noun"
   },
   {
     "rank": 254,
-    "es": "ciencia",
-    "en": "science"
+    "es": "duda",
+    "en": "doubt",
+    "type": "noun"
   },
   {
     "rank": 255,
-    "es": "comer",
-    "en": "eat"
+    "es": "pregunta",
+    "en": "question",
+    "type": "noun"
   },
   {
     "rank": 256,
-    "es": "habitación",
-    "en": "room"
+    "es": "respuesta",
+    "en": "answer",
+    "type": "noun"
   },
   {
     "rank": 257,
-    "es": "amigo",
-    "en": "friend"
+    "es": "solución",
+    "en": "solution",
+    "type": "noun"
   },
   {
     "rank": 258,
-    "es": "comenzó",
-    "en": "began"
+    "es": "decisión",
+    "en": "decision",
+    "type": "noun"
   },
   {
     "rank": 259,
-    "es": "gusta",
-    "en": "idea"
+    "es": "opción",
+    "en": "option",
+    "type": "noun"
   },
   {
     "rank": 260,
-    "es": "peces",
-    "en": "fish"
+    "es": "elección",
+    "en": "election/choice",
+    "type": "noun"
   },
   {
     "rank": 261,
-    "es": "montaña",
-    "en": "mountain"
+    "es": "voto",
+    "en": "vote",
+    "type": "noun"
   },
   {
     "rank": 262,
-    "es": "Deténgase",
-    "en": "stop"
+    "es": "candidato",
+    "en": "candidate",
+    "type": "noun"
   },
   {
     "rank": 263,
-    "es": "una vez",
-    "en": "once"
+    "es": "política",
+    "en": "politics",
+    "type": "noun"
   },
   {
     "rank": 264,
-    "es": "base de",
-    "en": "base"
+    "es": "economía",
+    "en": "economy",
+    "type": "noun"
   },
   {
     "rank": 265,
-    "es": "escuchar",
-    "en": "hear"
+    "es": "negocio",
+    "en": "business",
+    "type": "noun"
   },
   {
     "rank": 266,
-    "es": "caballo",
-    "en": "horse"
+    "es": "dinero",
+    "en": "money",
+    "type": "noun"
   },
   {
     "rank": 267,
-    "es": "cortada",
-    "en": "cut"
+    "es": "moneda",
+    "en": "coin/currency",
+    "type": "noun"
   },
   {
     "rank": 268,
-    "es": "seguro",
-    "en": "sure"
+    "es": "billete",
+    "en": "bill/ticket",
+    "type": "noun"
   },
   {
     "rank": 269,
-    "es": "ver",
-    "en": "watch"
+    "es": "precio",
+    "en": "price",
+    "type": "noun"
   },
   {
     "rank": 270,
-    "es": "colores",
-    "en": "color"
+    "es": "costo",
+    "en": "cost",
+    "type": "noun"
   },
   {
     "rank": 271,
-    "es": "cara",
-    "en": "face"
+    "es": "compra",
+    "en": "purchase",
+    "type": "noun"
   },
   {
     "rank": 272,
-    "es": "madera",
-    "en": "wood"
+    "es": "venta",
+    "en": "sale",
+    "type": "noun"
   },
   {
     "rank": 273,
-    "es": "principal",
-    "en": "main"
+    "es": "producto",
+    "en": "product",
+    "type": "noun"
   },
   {
     "rank": 274,
-    "es": "abierta",
-    "en": "open"
+    "es": "marca",
+    "en": "brand",
+    "type": "noun"
   },
   {
     "rank": 275,
-    "es": "parecer",
-    "en": "seem"
+    "es": "modelo",
+    "en": "model",
+    "type": "noun"
   },
   {
     "rank": 276,
-    "es": "juntos",
-    "en": "together"
+    "es": "diseño",
+    "en": "design",
+    "type": "noun"
   },
   {
     "rank": 277,
-    "es": "próximo",
-    "en": "next"
+    "es": "arte",
+    "en": "art",
+    "type": "noun"
   },
   {
     "rank": 278,
-    "es": "blanco",
-    "en": "white"
+    "es": "pintura",
+    "en": "painting",
+    "type": "noun"
   },
   {
     "rank": 279,
-    "es": "niños",
-    "en": "children"
+    "es": "escultura",
+    "en": "sculpture",
+    "type": "noun"
   },
   {
     "rank": 280,
-    "es": "comenzar",
-    "en": "begin"
+    "es": "foto",
+    "en": "photo",
+    "type": "noun"
   },
   {
     "rank": 281,
-    "es": "conseguido",
-    "en": "got"
+    "es": "fotografía",
+    "en": "photograph",
+    "type": "noun"
   },
   {
     "rank": 282,
-    "es": "caminar",
-    "en": "walk"
+    "es": "dibujo",
+    "en": "drawing",
+    "type": "noun"
   },
   {
     "rank": 283,
-    "es": "ejemplo",
-    "en": "example"
+    "es": "cuadro",
+    "en": "painting/picture",
+    "type": "noun"
   },
   {
     "rank": 284,
-    "es": "aliviar",
-    "en": "ease"
+    "es": "museo",
+    "en": "museum",
+    "type": "noun"
   },
   {
     "rank": 285,
-    "es": "papel",
-    "en": "paper"
+    "es": "teatro",
+    "en": "theater",
+    "type": "noun"
   },
   {
     "rank": 286,
-    "es": "grupo",
-    "en": "group"
+    "es": "cine",
+    "en": "cinema",
+    "type": "noun"
   },
   {
     "rank": 287,
-    "es": "siempre",
-    "en": "always"
+    "es": "escenario",
+    "en": "stage/scenario",
+    "type": "noun"
   },
   {
     "rank": 288,
-    "es": "música",
-    "en": "music"
+    "es": "actor",
+    "en": "actor",
+    "type": "noun"
   },
   {
     "rank": 289,
-    "es": "los",
-    "en": "those"
+    "es": "actriz",
+    "en": "actress",
+    "type": "noun"
   },
   {
     "rank": 290,
-    "es": "ambos",
-    "en": "both"
+    "es": "director",
+    "en": "director",
+    "type": "noun"
   },
   {
     "rank": 291,
-    "es": "marca",
-    "en": "mark"
+    "es": "autor",
+    "en": "author",
+    "type": "noun"
   },
   {
     "rank": 292,
-    "es": "menudo",
-    "en": "often"
+    "es": "escritor",
+    "en": "writer",
+    "type": "noun"
   },
   {
     "rank": 293,
-    "es": "carta",
-    "en": "letter"
+    "es": "lector",
+    "en": "reader",
+    "type": "noun"
   },
   {
     "rank": 294,
-    "es": "hasta",
-    "en": "until"
+    "es": "novela",
+    "en": "novel",
+    "type": "noun"
   },
   {
     "rank": 295,
-    "es": "milla",
-    "en": "mile"
+    "es": "cuento",
+    "en": "story/tale",
+    "type": "noun"
   },
   {
     "rank": 296,
-    "es": "río",
-    "en": "river"
+    "es": "poema",
+    "en": "poem",
+    "type": "noun"
   },
   {
     "rank": 297,
-    "es": "coche",
-    "en": "car"
+    "es": "poesía",
+    "en": "poetry",
+    "type": "noun"
   },
   {
     "rank": 298,
-    "es": "pies",
-    "en": "feet"
+    "es": "literatura",
+    "en": "literature",
+    "type": "noun"
   },
   {
     "rank": 299,
-    "es": "cuidado",
-    "en": "care"
+    "es": "ciencia",
+    "en": "science",
+    "type": "noun"
   },
   {
     "rank": 300,
-    "es": "segundo",
-    "en": "second"
+    "es": "tecnología",
+    "en": "technology",
+    "type": "noun"
   },
   {
     "rank": 301,
-    "es": "suficiente",
-    "en": "enough"
+    "es": "investigación",
+    "en": "research",
+    "type": "noun"
   },
   {
     "rank": 302,
-    "es": "llano",
-    "en": "plain"
+    "es": "descubrimiento",
+    "en": "discovery",
+    "type": "noun"
   },
   {
     "rank": 303,
-    "es": "chica",
-    "en": "girl"
+    "es": "invento",
+    "en": "invention",
+    "type": "noun"
   },
   {
     "rank": 304,
-    "es": "habitual",
-    "en": "usual"
+    "es": "máquina",
+    "en": "machine",
+    "type": "noun"
   },
   {
     "rank": 305,
-    "es": "joven",
-    "en": "young"
+    "es": "motor",
+    "en": "engine/motor",
+    "type": "noun"
   },
   {
     "rank": 306,
-    "es": "listo",
-    "en": "ready"
+    "es": "energía",
+    "en": "energy",
+    "type": "noun"
   },
   {
     "rank": 307,
-    "es": "por encima de",
-    "en": "above"
+    "es": "electricidad",
+    "en": "electricity",
+    "type": "noun"
   },
   {
     "rank": 308,
-    "es": "nunca",
-    "en": "ever"
+    "es": "gas",
+    "en": "gas",
+    "type": "noun"
   },
   {
     "rank": 309,
-    "es": "rojo",
-    "en": "red"
+    "es": "petróleo",
+    "en": "petroleum/oil",
+    "type": "noun"
   },
   {
     "rank": 310,
-    "es": "lista",
-    "en": "list"
+    "es": "aceite",
+    "en": "oil",
+    "type": "noun"
   },
   {
     "rank": 311,
-    "es": "aunque",
-    "en": "though"
+    "es": "metal",
+    "en": "metal",
+    "type": "noun"
   },
   {
     "rank": 312,
-    "es": "sentir",
-    "en": "feel"
+    "es": "oro",
+    "en": "gold",
+    "type": "noun"
   },
   {
     "rank": 313,
-    "es": "charla",
-    "en": "talk"
+    "es": "plata",
+    "en": "silver",
+    "type": "noun"
   },
   {
     "rank": 314,
-    "es": "pájaro",
-    "en": "bird"
+    "es": "hierro",
+    "en": "iron",
+    "type": "noun"
   },
   {
     "rank": 315,
-    "es": "pronto",
-    "en": "soon"
+    "es": "madera",
+    "en": "wood",
+    "type": "noun"
   },
   {
     "rank": 316,
-    "es": "cuerpo",
-    "en": "body"
+    "es": "piedra",
+    "en": "stone",
+    "type": "noun"
   },
   {
     "rank": 317,
-    "es": "perro",
-    "en": "dog"
+    "es": "vidrio",
+    "en": "glass",
+    "type": "noun"
   },
   {
     "rank": 318,
-    "es": "familia",
-    "en": "family"
+    "es": "plástico",
+    "en": "plastic",
+    "type": "noun"
   },
   {
     "rank": 319,
-    "es": "directa",
-    "en": "direct"
+    "es": "tela",
+    "en": "fabric",
+    "type": "noun"
   },
   {
     "rank": 320,
-    "es": "plantear",
-    "en": "pose"
+    "es": "cuero",
+    "en": "leather",
+    "type": "noun"
   },
   {
     "rank": 321,
-    "es": "dejar",
-    "en": "leave"
+    "es": "lana",
+    "en": "wool",
+    "type": "noun"
   },
   {
     "rank": 322,
-    "es": "canción",
-    "en": "song"
+    "es": "algodón",
+    "en": "cotton",
+    "type": "noun"
   },
   {
     "rank": 323,
-    "es": "medir",
-    "en": "measure"
+    "es": "cuerda",
+    "en": "rope/string",
+    "type": "noun"
   },
   {
     "rank": 324,
-    "es": "puerta",
-    "en": "door"
+    "es": "hilo",
+    "en": "thread",
+    "type": "noun"
   },
   {
     "rank": 325,
-    "es": "producto",
-    "en": "product"
+    "es": "aguja",
+    "en": "needle",
+    "type": "noun"
   },
   {
     "rank": 326,
-    "es": "negro",
-    "en": "black"
+    "es": "botón",
+    "en": "button",
+    "type": "noun"
   },
   {
     "rank": 327,
-    "es": "corto",
-    "en": "short"
+    "es": "llave",
+    "en": "key",
+    "type": "noun"
   },
   {
     "rank": 328,
-    "es": "numeral",
-    "en": "numeral"
+    "es": "candado",
+    "en": "padlock",
+    "type": "noun"
   },
   {
     "rank": 329,
-    "es": "clase",
-    "en": "class"
+    "es": "caja",
+    "en": "box",
+    "type": "noun"
   },
   {
     "rank": 330,
-    "es": "viento",
-    "en": "wind"
+    "es": "bolsa",
+    "en": "bag",
+    "type": "noun"
   },
   {
     "rank": 331,
-    "es": "pregunta",
-    "en": "question"
+    "es": "botella",
+    "en": "bottle",
+    "type": "noun"
   },
   {
     "rank": 332,
-    "es": "suceder",
-    "en": "happen"
+    "es": "vaso",
+    "en": "glass/cup",
+    "type": "noun"
   },
   {
     "rank": 333,
-    "es": "completo",
-    "en": "complete"
+    "es": "taza",
+    "en": "cup/mug",
+    "type": "noun"
   },
   {
     "rank": 334,
-    "es": "buque",
-    "en": "ship"
+    "es": "plato",
+    "en": "plate/dish",
+    "type": "noun"
   },
   {
     "rank": 335,
-    "es": "zona",
-    "en": "area"
+    "es": "tenedor",
+    "en": "fork",
+    "type": "noun"
   },
   {
     "rank": 336,
-    "es": "medio",
-    "en": "half"
+    "es": "cuchillo",
+    "en": "knife",
+    "type": "noun"
   },
   {
     "rank": 337,
-    "es": "roca",
-    "en": "rock"
+    "es": "cuchara",
+    "en": "spoon",
+    "type": "noun"
   },
   {
     "rank": 338,
-    "es": "orden",
-    "en": "order"
+    "es": "olla",
+    "en": "pot",
+    "type": "noun"
   },
   {
     "rank": 339,
-    "es": "fuego",
-    "en": "fire"
+    "es": "sartén",
+    "en": "frying pan",
+    "type": "noun"
   },
   {
     "rank": 340,
-    "es": "sur",
-    "en": "south"
+    "es": "horno",
+    "en": "oven",
+    "type": "noun"
   },
   {
     "rank": 341,
-    "es": "problema",
-    "en": "problem"
+    "es": "nevera",
+    "en": "fridge",
+    "type": "noun"
   },
   {
     "rank": 342,
-    "es": "pieza",
-    "en": "piece"
+    "es": "refrigerador",
+    "en": "refrigerator",
+    "type": "noun"
   },
   {
     "rank": 343,
-    "es": "dicho",
-    "en": "told"
+    "es": "lavadora",
+    "en": "washing machine",
+    "type": "noun"
   },
   {
     "rank": 344,
-    "es": "sabía",
-    "en": "knew"
+    "es": "ducha",
+    "en": "shower",
+    "type": "noun"
   },
   {
     "rank": 345,
-    "es": "pasar",
-    "en": "pass"
+    "es": "espejo",
+    "en": "mirror",
+    "type": "noun"
   },
   {
     "rank": 346,
-    "es": "desde",
-    "en": "since"
+    "es": "toalla",
+    "en": "towel",
+    "type": "noun"
   },
   {
     "rank": 347,
-    "es": "cima",
-    "en": "top"
+    "es": "jabón",
+    "en": "soap",
+    "type": "noun"
   },
   {
     "rank": 348,
-    "es": "todo",
-    "en": "whole"
+    "es": "cepillo",
+    "en": "brush",
+    "type": "noun"
   },
   {
     "rank": 349,
-    "es": "rey",
-    "en": "king"
+    "es": "peine",
+    "en": "comb",
+    "type": "noun"
   },
   {
     "rank": 350,
-    "es": "calle",
-    "en": "street"
+    "es": "diente",
+    "en": "tooth",
+    "type": "noun"
   },
   {
     "rank": 351,
-    "es": "pulgadas",
-    "en": "inch"
+    "es": "labio",
+    "en": "lip",
+    "type": "noun"
   },
   {
     "rank": 352,
-    "es": "multiplicar",
-    "en": "multiply"
+    "es": "lengua",
+    "en": "tongue/language",
+    "type": "noun"
   },
   {
     "rank": 353,
-    "es": "nada",
-    "en": "nothing"
+    "es": "oreja",
+    "en": "ear",
+    "type": "noun"
   },
   {
     "rank": 354,
-    "es": "curso",
-    "en": "course"
+    "es": "nariz",
+    "en": "nose",
+    "type": "noun"
   },
   {
     "rank": 355,
-    "es": "quedarse",
-    "en": "stay"
+    "es": "ceja",
+    "en": "eyebrow",
+    "type": "noun"
   },
   {
     "rank": 356,
-    "es": "rueda",
-    "en": "wheel"
+    "es": "pestaña",
+    "en": "eyelash",
+    "type": "noun"
   },
   {
     "rank": 357,
-    "es": "completo",
-    "en": "full"
+    "es": "pelo",
+    "en": "hair",
+    "type": "noun"
   },
   {
     "rank": 358,
-    "es": "fuerza",
-    "en": "force"
+    "es": "cabello",
+    "en": "hair",
+    "type": "noun"
   },
   {
     "rank": 359,
-    "es": "azul",
-    "en": "blue"
+    "es": "barba",
+    "en": "beard",
+    "type": "noun"
   },
   {
     "rank": 360,
-    "es": "objeto",
-    "en": "object"
+    "es": "bigote",
+    "en": "mustache",
+    "type": "noun"
   },
   {
     "rank": 361,
-    "es": "decidir",
-    "en": "decide"
+    "es": "piel",
+    "en": "skin",
+    "type": "noun"
   },
   {
     "rank": 362,
-    "es": "superficie",
-    "en": "surface"
+    "es": "hueso",
+    "en": "bone",
+    "type": "noun"
   },
   {
     "rank": 363,
-    "es": "profunda",
-    "en": "deep"
+    "es": "músculo",
+    "en": "muscle",
+    "type": "noun"
   },
   {
     "rank": 364,
-    "es": "luna",
-    "en": "moon"
+    "es": "espalda",
+    "en": "back",
+    "type": "noun"
   },
   {
     "rank": 365,
-    "es": "isla",
-    "en": "island"
+    "es": "hombro",
+    "en": "shoulder",
+    "type": "noun"
   },
   {
     "rank": 366,
-    "es": "pie",
-    "en": "foot"
+    "es": "codo",
+    "en": "elbow",
+    "type": "noun"
   },
   {
     "rank": 367,
-    "es": "sistema",
-    "en": "system"
+    "es": "rodilla",
+    "en": "knee",
+    "type": "noun"
   },
   {
     "rank": 368,
-    "es": "ocupado",
-    "en": "busy"
+    "es": "tobillo",
+    "en": "ankle",
+    "type": "noun"
   },
   {
     "rank": 369,
-    "es": "prueba",
-    "en": "test"
+    "es": "dedo",
+    "en": "finger",
+    "type": "noun"
   },
   {
     "rank": 370,
-    "es": "registro",
-    "en": "record"
+    "es": "uña",
+    "en": "fingernail",
+    "type": "noun"
   },
   {
     "rank": 371,
-    "es": "barco",
-    "en": "boat"
+    "es": "estómago",
+    "en": "stomach",
+    "type": "noun"
   },
   {
     "rank": 372,
-    "es": "común",
-    "en": "common"
+    "es": "espíritu",
+    "en": "spirit",
+    "type": "noun"
   },
   {
     "rank": 373,
-    "es": "oro",
-    "en": "gold"
+    "es": "alma",
+    "en": "soul",
+    "type": "noun"
   },
   {
     "rank": 374,
-    "es": "posible",
-    "en": "possible"
+    "es": "mente",
+    "en": "mind",
+    "type": "noun"
   },
   {
     "rank": 375,
-    "es": "plano",
-    "en": "plane"
+    "es": "pensamiento",
+    "en": "thought",
+    "type": "noun"
   },
   {
     "rank": 376,
-    "es": "lugar",
-    "en": "stead"
+    "es": "sentimiento",
+    "en": "feeling",
+    "type": "noun"
   },
   {
     "rank": 377,
-    "es": "seco",
-    "en": "dry"
+    "es": "emoción",
+    "en": "emotion",
+    "type": "noun"
   },
   {
     "rank": 378,
-    "es": "maravilla",
-    "en": "wonder"
+    "es": "alegría",
+    "en": "joy",
+    "type": "noun"
   },
   {
     "rank": 379,
-    "es": "risa",
-    "en": "laugh"
+    "es": "tristeza",
+    "en": "sadness",
+    "type": "noun"
   },
   {
     "rank": 380,
-    "es": "mil",
-    "en": "thousand"
+    "es": "felicidad",
+    "en": "happiness",
+    "type": "noun"
   },
   {
     "rank": 381,
-    "es": "hace",
-    "en": "ago"
+    "es": "ira",
+    "en": "anger",
+    "type": "noun"
   },
   {
     "rank": 382,
-    "es": "corrió",
-    "en": "ran"
+    "es": "rabia",
+    "en": "rage",
+    "type": "noun"
   },
   {
     "rank": 383,
-    "es": "comprobar",
-    "en": "check"
+    "es": "celos",
+    "en": "jealousy",
+    "type": "noun"
   },
   {
     "rank": 384,
-    "es": "juego",
-    "en": "game"
+    "es": "envidia",
+    "en": "envy",
+    "type": "noun"
   },
   {
     "rank": 385,
-    "es": "forma",
-    "en": "shape"
+    "es": "odio",
+    "en": "hate",
+    "type": "noun"
   },
   {
     "rank": 386,
-    "es": "equiparar",
-    "en": "equate"
+    "es": "paz",
+    "en": "peace",
+    "type": "noun"
   },
   {
     "rank": 387,
-    "es": "caliente",
-    "en": "hot"
+    "es": "batalla",
+    "en": "battle",
+    "type": "noun"
   },
   {
     "rank": 388,
-    "es": "señorita",
-    "en": "miss"
+    "es": "ejército",
+    "en": "army",
+    "type": "noun"
   },
   {
     "rank": 389,
-    "es": "traído",
-    "en": "brought"
+    "es": "soldado",
+    "en": "soldier",
+    "type": "noun"
   },
   {
     "rank": 390,
-    "es": "calor",
-    "en": "heat"
+    "es": "arma",
+    "en": "weapon",
+    "type": "noun"
   },
   {
     "rank": 391,
-    "es": "nieve",
-    "en": "snow"
+    "es": "victoria",
+    "en": "victory",
+    "type": "noun"
   },
   {
     "rank": 392,
-    "es": "neumáticos",
-    "en": "tire"
+    "es": "derrota",
+    "en": "defeat",
+    "type": "noun"
   },
   {
     "rank": 393,
-    "es": "traer",
-    "en": "bring"
+    "es": "héroe",
+    "en": "hero",
+    "type": "noun"
   },
   {
     "rank": 394,
-    "es": "sí",
-    "en": "yes"
+    "es": "enemigo",
+    "en": "enemy",
+    "type": "noun"
   },
   {
     "rank": 395,
-    "es": "distante",
-    "en": "distant"
+    "es": "amistad",
+    "en": "friendship",
+    "type": "noun"
   },
   {
     "rank": 396,
-    "es": "llenar",
-    "en": "fill"
+    "es": "pareja",
+    "en": "couple/partner",
+    "type": "noun"
   },
   {
     "rank": 397,
-    "es": "al este",
-    "en": "east"
+    "es": "novio",
+    "en": "boyfriend",
+    "type": "noun"
   },
   {
     "rank": 398,
-    "es": "pintar",
-    "en": "paint"
+    "es": "novia",
+    "en": "girlfriend",
+    "type": "noun"
   },
   {
     "rank": 399,
-    "es": "idioma",
-    "en": "language"
+    "es": "boda",
+    "en": "wedding",
+    "type": "noun"
   },
   {
     "rank": 400,
-    "es": "entre",
-    "en": "among"
+    "es": "matrimonio",
+    "en": "marriage",
+    "type": "noun"
   },
   {
     "rank": 401,
-    "es": "unidad",
-    "en": "unit"
+    "es": "divorcio",
+    "en": "divorce",
+    "type": "noun"
   },
   {
     "rank": 402,
-    "es": "potencia",
-    "en": "power"
+    "es": "bebé",
+    "en": "baby",
+    "type": "noun"
   },
   {
     "rank": 403,
-    "es": "ciudad",
-    "en": "town"
+    "es": "abuelo",
+    "en": "grandfather",
+    "type": "noun"
   },
   {
     "rank": 404,
-    "es": "fina",
-    "en": "fine"
+    "es": "abuela",
+    "en": "grandmother",
+    "type": "noun"
   },
   {
     "rank": 405,
-    "es": "cierto",
-    "en": "certain"
+    "es": "tío",
+    "en": "uncle",
+    "type": "noun"
   },
   {
     "rank": 406,
-    "es": "volar",
-    "en": "fly"
+    "es": "tía",
+    "en": "aunt",
+    "type": "noun"
   },
   {
     "rank": 407,
-    "es": "caer",
-    "en": "fall"
+    "es": "primo",
+    "en": "cousin (m)",
+    "type": "noun"
   },
   {
     "rank": 408,
-    "es": "conducir",
-    "en": "lead"
+    "es": "prima",
+    "en": "cousin (f)",
+    "type": "noun"
   },
   {
     "rank": 409,
-    "es": "grito",
-    "en": "cry"
+    "es": "sobrino",
+    "en": "nephew",
+    "type": "noun"
   },
   {
     "rank": 410,
-    "es": "oscuro",
-    "en": "dark"
+    "es": "sobrina",
+    "en": "niece",
+    "type": "noun"
   },
   {
     "rank": 411,
-    "es": "máquina",
-    "en": "machine"
+    "es": "hermano",
+    "en": "brother",
+    "type": "noun"
   },
   {
     "rank": 412,
-    "es": "nota",
-    "en": "note"
+    "es": "hermana",
+    "en": "sister",
+    "type": "noun"
   },
   {
     "rank": 413,
-    "es": "espere",
-    "en": "wait"
+    "es": "vecino",
+    "en": "neighbor",
+    "type": "noun"
   },
   {
     "rank": 414,
-    "es": "plan de",
-    "en": "plan"
+    "es": "extranjero",
+    "en": "foreigner",
+    "type": "noun"
   },
   {
     "rank": 415,
-    "es": "figura",
-    "en": "figure"
+    "es": "turista",
+    "en": "tourist",
+    "type": "noun"
   },
   {
     "rank": 416,
-    "es": "estrella",
-    "en": "star"
+    "es": "viajero",
+    "en": "traveler",
+    "type": "noun"
   },
   {
     "rank": 417,
-    "es": "caja",
-    "en": "box"
+    "es": "conductor",
+    "en": "driver",
+    "type": "noun"
   },
   {
     "rank": 418,
-    "es": "sustantivo",
-    "en": "noun"
+    "es": "pasajero",
+    "en": "passenger",
+    "type": "noun"
   },
   {
     "rank": 419,
-    "es": "campo",
-    "en": "field"
+    "es": "médico",
+    "en": "doctor",
+    "type": "noun"
   },
   {
     "rank": 420,
-    "es": "resto",
-    "en": "rest"
+    "es": "doctor",
+    "en": "doctor",
+    "type": "noun"
   },
   {
     "rank": 421,
-    "es": "correcta",
-    "en": "correct"
+    "es": "enfermero",
+    "en": "nurse",
+    "type": "noun"
   },
   {
     "rank": 422,
-    "es": "capaz",
-    "en": "able"
+    "es": "paciente",
+    "en": "patient",
+    "type": "noun"
   },
   {
     "rank": 423,
-    "es": "libra",
-    "en": "pound"
+    "es": "enfermedad",
+    "en": "illness",
+    "type": "noun"
   },
   {
     "rank": 424,
-    "es": "hecho",
-    "en": "done"
+    "es": "salud",
+    "en": "health",
+    "type": "noun"
   },
   {
     "rank": 425,
-    "es": "belleza",
-    "en": "beauty"
+    "es": "medicina",
+    "en": "medicine",
+    "type": "noun"
   },
   {
     "rank": 426,
-    "es": "unidad",
-    "en": "drive"
+    "es": "dolor",
+    "en": "pain",
+    "type": "noun"
   },
   {
     "rank": 427,
-    "es": "destacado",
-    "en": "stood"
+    "es": "fiebre",
+    "en": "fever",
+    "type": "noun"
   },
   {
     "rank": 428,
-    "es": "contener",
-    "en": "contain"
+    "es": "tos",
+    "en": "cough",
+    "type": "noun"
   },
   {
     "rank": 429,
-    "es": "delante",
-    "en": "front"
+    "es": "profesor",
+    "en": "teacher",
+    "type": "noun"
   },
   {
     "rank": 430,
-    "es": "enseñar",
-    "en": "teach"
+    "es": "maestro",
+    "en": "teacher/master",
+    "type": "noun"
   },
   {
     "rank": 431,
-    "es": "semana",
-    "en": "week"
+    "es": "estudiante",
+    "en": "student",
+    "type": "noun"
   },
   {
     "rank": 432,
-    "es": "último",
-    "en": "final"
+    "es": "alumno",
+    "en": "pupil",
+    "type": "noun"
   },
   {
     "rank": 433,
-    "es": "dio",
-    "en": "gave"
+    "es": "clase",
+    "en": "class",
+    "type": "noun"
   },
   {
     "rank": 434,
-    "es": "verde",
-    "en": "green"
+    "es": "lección",
+    "en": "lesson",
+    "type": "noun"
   },
   {
     "rank": 435,
-    "es": "oh",
-    "en": "oh"
+    "es": "examen",
+    "en": "exam",
+    "type": "noun"
   },
   {
     "rank": 436,
-    "es": "rápido",
-    "en": "quick"
+    "es": "nota",
+    "en": "note/grade",
+    "type": "noun"
   },
   {
     "rank": 437,
-    "es": "desarrollar",
-    "en": "develop"
+    "es": "tarea",
+    "en": "homework/task",
+    "type": "noun"
   },
   {
     "rank": 438,
-    "es": "océano",
-    "en": "ocean"
+    "es": "luna",
+    "en": "moon",
+    "type": "noun"
   },
   {
     "rank": 439,
-    "es": "caliente",
-    "en": "warm"
+    "es": "sol",
+    "en": "sun",
+    "type": "noun"
   },
   {
     "rank": 440,
-    "es": "libre",
-    "en": "free"
+    "es": "estrella",
+    "en": "star",
+    "type": "noun"
   },
   {
     "rank": 441,
-    "es": "minuto",
-    "en": "minute"
+    "es": "cielo",
+    "en": "sky",
+    "type": "noun"
   },
   {
     "rank": 442,
-    "es": "fuerte",
-    "en": "strong"
+    "es": "nube",
+    "en": "cloud",
+    "type": "noun"
   },
   {
     "rank": 443,
-    "es": "especial",
-    "en": "special"
+    "es": "lluvia",
+    "en": "rain",
+    "type": "noun"
   },
   {
     "rank": 444,
-    "es": "mente",
-    "en": "mind"
+    "es": "nieve",
+    "en": "snow",
+    "type": "noun"
   },
   {
     "rank": 445,
-    "es": "detrás",
-    "en": "behind"
+    "es": "viento",
+    "en": "wind",
+    "type": "noun"
   },
   {
     "rank": 446,
-    "es": "claro",
-    "en": "clear"
+    "es": "tormenta",
+    "en": "storm",
+    "type": "noun"
   },
   {
     "rank": 447,
-    "es": "cola",
-    "en": "tail"
+    "es": "verano",
+    "en": "summer",
+    "type": "noun"
   },
   {
     "rank": 448,
-    "es": "Produce",
-    "en": "produce"
+    "es": "invierno",
+    "en": "winter",
+    "type": "noun"
   },
   {
     "rank": 449,
-    "es": "hecho",
-    "en": "fact"
+    "es": "primavera",
+    "en": "spring",
+    "type": "noun"
   },
   {
     "rank": 450,
-    "es": "espacio",
-    "en": "space"
-  },
-  {
-    "rank": 451,
-    "es": "oído",
-    "en": "heard"
-  },
-  {
-    "rank": 452,
-    "es": "mejor",
-    "en": "best"
-  },
-  {
-    "rank": 453,
-    "es": "horas",
-    "en": "hour"
-  },
-  {
-    "rank": 454,
-    "es": "mejor",
-    "en": "better"
-  },
-  {
-    "rank": 455,
-    "es": "verdadero",
-    "en": "true"
-  },
-  {
-    "rank": 456,
-    "es": "durante",
-    "en": "during"
-  },
-  {
-    "rank": 457,
-    "es": "cien",
-    "en": "hundred"
-  },
-  {
-    "rank": 458,
-    "es": "cinco",
-    "en": "five"
-  },
-  {
-    "rank": 459,
-    "es": "recordar",
-    "en": "remember"
-  },
-  {
-    "rank": 460,
-    "es": "paso",
-    "en": "step"
-  },
-  {
-    "rank": 461,
-    "es": "temprana",
-    "en": "early"
-  },
-  {
-    "rank": 462,
-    "es": "mantenga",
-    "en": "hold"
-  },
-  {
-    "rank": 463,
-    "es": "oeste",
-    "en": "west"
-  },
-  {
-    "rank": 464,
-    "es": "suelo",
-    "en": "ground"
-  },
-  {
-    "rank": 465,
-    "es": "interés",
-    "en": "interest"
-  },
-  {
-    "rank": 466,
-    "es": "llegar",
-    "en": "reach"
-  },
-  {
-    "rank": 467,
-    "es": "rápido",
-    "en": "fast"
-  },
-  {
-    "rank": 468,
-    "es": "verbo",
-    "en": "verb"
-  },
-  {
-    "rank": 469,
-    "es": "cantar",
-    "en": "sing"
-  },
-  {
-    "rank": 470,
-    "es": "escuchar",
-    "en": "listen"
-  },
-  {
-    "rank": 471,
-    "es": "seis",
-    "en": "six"
-  },
-  {
-    "rank": 472,
-    "es": "mesa",
-    "en": "table"
-  },
-  {
-    "rank": 473,
-    "es": "viajes",
-    "en": "travel"
-  },
-  {
-    "rank": 474,
-    "es": "menos",
-    "en": "less"
-  },
-  {
-    "rank": 475,
-    "es": "mañana",
-    "en": "morning"
-  },
-  {
-    "rank": 476,
-    "es": "diez",
-    "en": "ten"
-  },
-  {
-    "rank": 477,
-    "es": "sencilla",
-    "en": "simple"
-  },
-  {
-    "rank": 478,
-    "es": "varios",
-    "en": "several"
-  },
-  {
-    "rank": 479,
-    "es": "vocal",
-    "en": "vowel"
-  },
-  {
-    "rank": 480,
-    "es": "hacia",
-    "en": "toward"
-  },
-  {
-    "rank": 481,
-    "es": "guerra",
-    "en": "war"
-  },
-  {
-    "rank": 482,
-    "es": "sentar",
-    "en": "lay"
-  },
-  {
-    "rank": 483,
-    "es": "contra",
-    "en": "against"
-  },
-  {
-    "rank": 484,
-    "es": "patrón",
-    "en": "pattern"
-  },
-  {
-    "rank": 485,
-    "es": "lenta",
-    "en": "slow"
-  },
-  {
-    "rank": 486,
-    "es": "centro",
-    "en": "center"
-  },
-  {
-    "rank": 487,
-    "es": "amar",
-    "en": "love"
-  },
-  {
-    "rank": 488,
-    "es": "persona",
-    "en": "person"
-  },
-  {
-    "rank": 489,
-    "es": "dinero",
-    "en": "money"
-  },
-  {
-    "rank": 490,
-    "es": "servir",
-    "en": "serve"
-  },
-  {
-    "rank": 491,
-    "es": "aparecerá",
-    "en": "appear"
-  },
-  {
-    "rank": 492,
-    "es": "carretera",
-    "en": "road"
-  },
-  {
-    "rank": 493,
-    "es": "mapa",
-    "en": "map"
-  },
-  {
-    "rank": 494,
-    "es": "lluvia",
-    "en": "rain"
-  },
-  {
-    "rank": 495,
-    "es": "regla",
-    "en": "rule"
-  },
-  {
-    "rank": 496,
-    "es": "gobernar",
-    "en": "govern"
-  },
-  {
-    "rank": 497,
-    "es": "Halar",
-    "en": "pull"
-  },
-  {
-    "rank": 498,
-    "es": "frío",
-    "en": "cold"
-  },
-  {
-    "rank": 499,
-    "es": "aviso",
-    "en": "notice"
-  },
-  {
-    "rank": 500,
-    "es": "voz",
-    "en": "voice"
-  },
-  {
-    "rank": 501,
-    "es": "energía",
-    "en": "energy"
-  },
-  {
-    "rank": 502,
-    "es": "caza",
-    "en": "hunt"
-  },
-  {
-    "rank": 503,
-    "es": "probable",
-    "en": "probable"
-  },
-  {
-    "rank": 504,
-    "es": "cama",
-    "en": "bed"
-  },
-  {
-    "rank": 505,
-    "es": "hermano",
-    "en": "brother"
-  },
-  {
-    "rank": 506,
-    "es": "huevo",
-    "en": "egg"
-  },
-  {
-    "rank": 507,
-    "es": "paseo",
-    "en": "ride"
-  },
-  {
-    "rank": 508,
-    "es": "celular",
-    "en": "cell"
-  },
-  {
-    "rank": 509,
-    "es": "creer",
-    "en": "believe"
-  },
-  {
-    "rank": 510,
-    "es": "quizás",
-    "en": "perhaps"
-  },
-  {
-    "rank": 511,
-    "es": "recoger",
-    "en": "pick"
-  },
-  {
-    "rank": 512,
-    "es": "repentina",
-    "en": "sudden"
-  },
-  {
-    "rank": 513,
-    "es": "contar",
-    "en": "count"
-  },
-  {
-    "rank": 514,
-    "es": "plaza",
-    "en": "square"
-  },
-  {
-    "rank": 515,
-    "es": "razón",
-    "en": "reason"
-  },
-  {
-    "rank": 516,
-    "es": "longitud",
-    "en": "length"
-  },
-  {
-    "rank": 517,
-    "es": "representar",
-    "en": "represent"
-  },
-  {
-    "rank": 518,
-    "es": "arte",
-    "en": "art"
-  },
-  {
-    "rank": 519,
-    "es": "sujeto",
-    "en": "subject"
-  },
-  {
-    "rank": 520,
-    "es": "región",
-    "en": "region"
-  },
-  {
-    "rank": 521,
-    "es": "tamaño",
-    "en": "size"
-  },
-  {
-    "rank": 522,
-    "es": "variar",
-    "en": "vary"
-  },
-  {
-    "rank": 523,
-    "es": "resolver",
-    "en": "settle"
-  },
-  {
-    "rank": 524,
-    "es": "hablar",
-    "en": "speak"
-  },
-  {
-    "rank": 525,
-    "es": "peso",
-    "en": "weight"
-  },
-  {
-    "rank": 526,
-    "es": "general",
-    "en": "general"
-  },
-  {
-    "rank": 527,
-    "es": "hielo",
-    "en": "ice"
-  },
-  {
-    "rank": 528,
-    "es": "materia",
-    "en": "matter"
-  },
-  {
-    "rank": 529,
-    "es": "círculo",
-    "en": "circle"
-  },
-  {
-    "rank": 530,
-    "es": "par",
-    "en": "pair"
-  },
-  {
-    "rank": 531,
-    "es": "incluir",
-    "en": "include"
-  },
-  {
-    "rank": 532,
-    "es": "brecha",
-    "en": "divide"
-  },
-  {
-    "rank": 533,
-    "es": "sílaba",
-    "en": "syllable"
-  },
-  {
-    "rank": 534,
-    "es": "sentido",
-    "en": "felt"
-  },
-  {
-    "rank": 535,
-    "es": "gran",
-    "en": "grand"
-  },
-  {
-    "rank": 536,
-    "es": "bola",
-    "en": "ball"
-  },
-  {
-    "rank": 537,
-    "es": "aún",
-    "en": "yet"
-  },
-  {
-    "rank": 538,
-    "es": "ola",
-    "en": "wave"
-  },
-  {
-    "rank": 539,
-    "es": "caer",
-    "en": "drop"
-  },
-  {
-    "rank": 540,
-    "es": "corazón",
-    "en": "heart"
-  },
-  {
-    "rank": 541,
-    "es": "am",
-    "en": "am"
-  },
-  {
-    "rank": 542,
-    "es": "presente",
-    "en": "present"
-  },
-  {
-    "rank": 543,
-    "es": "pesada",
-    "en": "heavy"
-  },
-  {
-    "rank": 544,
-    "es": "danza",
-    "en": "dance"
-  },
-  {
-    "rank": 545,
-    "es": "motor",
-    "en": "engine"
-  },
-  {
-    "rank": 546,
-    "es": "posición",
-    "en": "position"
-  },
-  {
-    "rank": 547,
-    "es": "brazo",
-    "en": "arm"
-  },
-  {
-    "rank": 548,
-    "es": "amplio",
-    "en": "wide"
-  },
-  {
-    "rank": 549,
-    "es": "vela",
-    "en": "sail"
-  },
-  {
-    "rank": 550,
-    "es": "materiales",
-    "en": "material"
-  },
-  {
-    "rank": 551,
-    "es": "fracción",
-    "en": "fraction"
-  },
-  {
-    "rank": 552,
-    "es": "bosque",
-    "en": "forest"
-  },
-  {
-    "rank": 553,
-    "es": "sentarse",
-    "en": "sit"
-  },
-  {
-    "rank": 554,
-    "es": "carrera",
-    "en": "race"
-  },
-  {
-    "rank": 555,
-    "es": "ventana",
-    "en": "window"
-  },
-  {
-    "rank": 556,
-    "es": "tienda",
-    "en": "store"
-  },
-  {
-    "rank": 557,
-    "es": "verano",
-    "en": "summer"
-  },
-  {
-    "rank": 558,
-    "es": "tren",
-    "en": "train"
-  },
-  {
-    "rank": 559,
-    "es": "sueño",
-    "en": "sleep"
-  },
-  {
-    "rank": 560,
-    "es": "demostrar",
-    "en": "prove"
-  },
-  {
-    "rank": 561,
-    "es": "solitario",
-    "en": "lone"
-  },
-  {
-    "rank": 562,
-    "es": "pierna",
-    "en": "leg"
-  },
-  {
-    "rank": 563,
-    "es": "ejercicio",
-    "en": "exercise"
-  },
-  {
-    "rank": 564,
-    "es": "pared",
-    "en": "wall"
-  },
-  {
-    "rank": 565,
-    "es": "capturas",
-    "en": "catch"
-  },
-  {
-    "rank": 566,
-    "es": "monte",
-    "en": "mount"
-  },
-  {
-    "rank": 567,
-    "es": "desear",
-    "en": "wish"
-  },
-  {
-    "rank": 568,
-    "es": "cielo",
-    "en": "sky"
-  },
-  {
-    "rank": 569,
-    "es": "bordo",
-    "en": "board"
-  },
-  {
-    "rank": 570,
-    "es": "alegría",
-    "en": "joy"
-  },
-  {
-    "rank": 571,
-    "es": "invierno",
-    "en": "winter"
-  },
-  {
-    "rank": 572,
-    "es": "satélite",
-    "en": "sat"
-  },
-  {
-    "rank": 573,
-    "es": "escrito",
-    "en": "written"
-  },
-  {
-    "rank": 574,
-    "es": "salvaje",
-    "en": "wild"
-  },
-  {
-    "rank": 575,
-    "es": "instrumento",
-    "en": "instrument"
-  },
-  {
-    "rank": 576,
-    "es": "guardado",
-    "en": "kept"
-  },
-  {
-    "rank": 577,
-    "es": "vidrio",
-    "en": "glass"
-  },
-  {
-    "rank": 578,
-    "es": "hierba",
-    "en": "grass"
-  },
-  {
-    "rank": 579,
-    "es": "vaca",
-    "en": "cow"
-  },
-  {
-    "rank": 580,
-    "es": "trabajo",
-    "en": "job"
-  },
-  {
-    "rank": 581,
-    "es": "borde",
-    "en": "edge"
-  },
-  {
-    "rank": 582,
-    "es": "signo",
-    "en": "sign"
-  },
-  {
-    "rank": 583,
-    "es": "visita",
-    "en": "visit"
-  },
-  {
-    "rank": 584,
-    "es": "pasado",
-    "en": "past"
-  },
-  {
-    "rank": 585,
-    "es": "suave",
-    "en": "soft"
-  },
-  {
-    "rank": 586,
-    "es": "diversión",
-    "en": "fun"
-  },
-  {
-    "rank": 587,
-    "es": "brillante",
-    "en": "bright"
-  },
-  {
-    "rank": 588,
-    "es": "gas",
-    "en": "gas"
-  },
-  {
-    "rank": 589,
-    "es": "tiempo",
-    "en": "weather"
-  },
-  {
-    "rank": 590,
-    "es": "mes",
-    "en": "month"
-  },
-  {
-    "rank": 591,
-    "es": "millones",
-    "en": "million"
-  },
-  {
-    "rank": 592,
-    "es": "soportar",
-    "en": "bear"
-  },
-  {
-    "rank": 593,
-    "es": "acabado",
-    "en": "finish"
-  },
-  {
-    "rank": 594,
-    "es": "feliz",
-    "en": "happy"
-  },
-  {
-    "rank": 595,
-    "es": "esperanza",
-    "en": "hope"
-  },
-  {
-    "rank": 596,
-    "es": "flor",
-    "en": "flower"
-  },
-  {
-    "rank": 597,
-    "es": "vestir",
-    "en": "clothe"
-  },
-  {
-    "rank": 598,
-    "es": "extraño",
-    "en": "strange"
-  },
-  {
-    "rank": 599,
-    "es": "se ha ido",
-    "en": "gone"
-  },
-  {
-    "rank": 600,
-    "es": "comercio",
-    "en": "trade"
-  },
-  {
-    "rank": 601,
-    "es": "melodía",
-    "en": "melody"
-  },
-  {
-    "rank": 602,
-    "es": "viaje",
-    "en": "trip"
-  },
-  {
-    "rank": 603,
-    "es": "oficina",
-    "en": "office"
-  },
-  {
-    "rank": 604,
-    "es": "recibir",
-    "en": "receive"
-  },
-  {
-    "rank": 605,
-    "es": "fila",
-    "en": "row"
-  },
-  {
-    "rank": 606,
-    "es": "boca",
-    "en": "mouth"
-  },
-  {
-    "rank": 607,
-    "es": "exacta",
-    "en": "exact"
-  },
-  {
-    "rank": 608,
-    "es": "símbolo",
-    "en": "symbol"
-  },
-  {
-    "rank": 609,
-    "es": "morir",
-    "en": "die"
-  },
-  {
-    "rank": 610,
-    "es": "menos",
-    "en": "least"
-  },
-  {
-    "rank": 611,
-    "es": "problema",
-    "en": "trouble"
-  },
-  {
-    "rank": 612,
-    "es": "grito",
-    "en": "shout"
-  },
-  {
-    "rank": 613,
-    "es": "excepto",
-    "en": "except"
-  },
-  {
-    "rank": 614,
-    "es": "escribió",
-    "en": "wrote"
-  },
-  {
-    "rank": 615,
-    "es": "semilla",
-    "en": "seed"
-  },
-  {
-    "rank": 616,
-    "es": "tono",
-    "en": "tone"
-  },
-  {
-    "rank": 617,
-    "es": "unirse",
-    "en": "join"
-  },
-  {
-    "rank": 618,
-    "es": "sugerir",
-    "en": "suggest"
-  },
-  {
-    "rank": 619,
-    "es": "limpia",
-    "en": "clean"
-  },
-  {
-    "rank": 620,
-    "es": "rotura",
-    "en": "break"
-  },
-  {
-    "rank": 621,
-    "es": "dama",
-    "en": "lady"
-  },
-  {
-    "rank": 622,
-    "es": "patio",
-    "en": "yard"
-  },
-  {
-    "rank": 623,
-    "es": "aumentando",
-    "en": "rise"
-  },
-  {
-    "rank": 624,
-    "es": "mal",
-    "en": "bad"
-  },
-  {
-    "rank": 625,
-    "es": "golpe",
-    "en": "blow"
-  },
-  {
-    "rank": 626,
-    "es": "aceite",
-    "en": "oil"
-  },
-  {
-    "rank": 627,
-    "es": "sangre",
-    "en": "blood"
-  },
-  {
-    "rank": 628,
-    "es": "tocar",
-    "en": "touch"
-  },
-  {
-    "rank": 629,
-    "es": "creció",
-    "en": "grew"
-  },
-  {
-    "rank": 630,
-    "es": "ciento",
-    "en": "cent"
-  },
-  {
-    "rank": 631,
-    "es": "mezclar",
-    "en": "mix"
-  },
-  {
-    "rank": 632,
-    "es": "equipo",
-    "en": "team"
-  },
-  {
-    "rank": 633,
-    "es": "alambre",
-    "en": "wire"
-  },
-  {
-    "rank": 634,
-    "es": "costo",
-    "en": "cost"
-  },
-  {
-    "rank": 635,
-    "es": "perdido",
-    "en": "lost"
-  },
-  {
-    "rank": 636,
-    "es": "marrón",
-    "en": "brown"
-  },
-  {
-    "rank": 637,
-    "es": "desgaste",
-    "en": "wear"
-  },
-  {
-    "rank": 638,
-    "es": "jardín",
-    "en": "garden"
-  },
-  {
-    "rank": 639,
-    "es": "igual",
-    "en": "equal"
-  },
-  {
-    "rank": 640,
-    "es": "enviado",
-    "en": "sent"
-  },
-  {
-    "rank": 641,
-    "es": "elegir",
-    "en": "choose"
-  },
-  {
-    "rank": 642,
-    "es": "cayó",
-    "en": "fell"
-  },
-  {
-    "rank": 643,
-    "es": "encajar",
-    "en": "fit"
-  },
-  {
-    "rank": 644,
-    "es": "fluir",
-    "en": "flow"
-  },
-  {
-    "rank": 645,
-    "es": "justo",
-    "en": "fair"
-  },
-  {
-    "rank": 646,
-    "es": "banco",
-    "en": "bank"
-  },
-  {
-    "rank": 647,
-    "es": "recoger",
-    "en": "collect"
-  },
-  {
-    "rank": 648,
-    "es": "guardar",
-    "en": "save"
-  },
-  {
-    "rank": 649,
-    "es": "el control",
-    "en": "control"
-  },
-  {
-    "rank": 650,
-    "es": "decimal",
-    "en": "decimal"
-  },
-  {
-    "rank": 651,
-    "es": "oído",
-    "en": "ear"
-  },
-  {
-    "rank": 652,
-    "es": "demás",
-    "en": "else"
-  },
-  {
-    "rank": 653,
-    "es": "bastante",
-    "en": "quite"
-  },
-  {
-    "rank": 654,
-    "es": "rompió",
-    "en": "broke"
-  },
-  {
-    "rank": 655,
-    "es": "caso",
-    "en": "case"
-  },
-  {
-    "rank": 656,
-    "es": "medio",
-    "en": "middle"
-  },
-  {
-    "rank": 657,
-    "es": "matar",
-    "en": "kill"
-  },
-  {
-    "rank": 658,
-    "es": "hijo",
-    "en": "son"
-  },
-  {
-    "rank": 659,
-    "es": "lago",
-    "en": "lake"
-  },
-  {
-    "rank": 660,
-    "es": "momento",
-    "en": "moment"
-  },
-  {
-    "rank": 661,
-    "es": "escala",
-    "en": "scale"
-  },
-  {
-    "rank": 662,
-    "es": "fuerte",
-    "en": "loud"
-  },
-  {
-    "rank": 663,
-    "es": "primavera",
-    "en": "spring"
-  },
-  {
-    "rank": 664,
-    "es": "observar",
-    "en": "observe"
-  },
-  {
-    "rank": 665,
-    "es": "niño",
-    "en": "child"
-  },
-  {
-    "rank": 666,
-    "es": "recta",
-    "en": "straight"
-  },
-  {
-    "rank": 667,
-    "es": "consonante",
-    "en": "consonant"
-  },
-  {
-    "rank": 668,
-    "es": "nación",
-    "en": "nation"
-  },
-  {
-    "rank": 669,
-    "es": "diccionario",
-    "en": "dictionary"
-  },
-  {
-    "rank": 670,
-    "es": "leche",
-    "en": "milk"
-  },
-  {
-    "rank": 671,
-    "es": "velocidad",
-    "en": "speed"
-  },
-  {
-    "rank": 672,
-    "es": "método",
-    "en": "method"
-  },
-  {
-    "rank": 673,
-    "es": "órgano",
-    "en": "organ"
-  },
-  {
-    "rank": 674,
-    "es": "pagar",
-    "en": "pay"
-  },
-  {
-    "rank": 675,
-    "es": "edad",
-    "en": "age"
-  },
-  {
-    "rank": 676,
-    "es": "sección",
-    "en": "section"
-  },
-  {
-    "rank": 677,
-    "es": "vestido",
-    "en": "dress"
-  },
-  {
-    "rank": 678,
-    "es": "nube",
-    "en": "cloud"
-  },
-  {
-    "rank": 679,
-    "es": "sorpresa",
-    "en": "surprise"
-  },
-  {
-    "rank": 680,
-    "es": "tranquila",
-    "en": "quiet"
-  },
-  {
-    "rank": 681,
-    "es": "piedra",
-    "en": "stone"
-  },
-  {
-    "rank": 682,
-    "es": "pequeño",
-    "en": "tiny"
-  },
-  {
-    "rank": 683,
-    "es": "ascenso",
-    "en": "climb"
-  },
-  {
-    "rank": 684,
-    "es": "fresco",
-    "en": "cool"
-  },
-  {
-    "rank": 685,
-    "es": "diseño",
-    "en": "design"
-  },
-  {
-    "rank": 686,
-    "es": "pobre",
-    "en": "poor"
-  },
-  {
-    "rank": 687,
-    "es": "mucho",
-    "en": "lot"
-  },
-  {
-    "rank": 688,
-    "es": "experimento",
-    "en": "experiment"
-  },
-  {
-    "rank": 689,
-    "es": "inferior",
-    "en": "bottom"
-  },
-  {
-    "rank": 690,
-    "es": "clave",
-    "en": "key"
-  },
-  {
-    "rank": 691,
-    "es": "hierro",
-    "en": "iron"
-  },
-  {
-    "rank": 692,
-    "es": "sola",
-    "en": "single"
-  },
-  {
-    "rank": 693,
-    "es": "palillo",
-    "en": "stick"
-  },
-  {
-    "rank": 694,
-    "es": "plana",
-    "en": "flat"
-  },
-  {
-    "rank": 695,
-    "es": "veinte",
-    "en": "twenty"
-  },
-  {
-    "rank": 696,
-    "es": "piel",
-    "en": "skin"
-  },
-  {
-    "rank": 697,
-    "es": "sonrisa",
-    "en": "smile"
-  },
-  {
-    "rank": 698,
-    "es": "pliegue",
-    "en": "crease"
-  },
-  {
-    "rank": 699,
-    "es": "agujero",
-    "en": "hole"
-  },
-  {
-    "rank": 700,
-    "es": "saltar",
-    "en": "jump"
-  },
-  {
-    "rank": 701,
-    "es": "bebé",
-    "en": "baby"
-  },
-  {
-    "rank": 702,
-    "es": "ocho",
-    "en": "eight"
-  },
-  {
-    "rank": 703,
-    "es": "pueblo",
-    "en": "village"
-  },
-  {
-    "rank": 704,
-    "es": "se reúnen",
-    "en": "meet"
-  },
-  {
-    "rank": 705,
-    "es": "raíz",
-    "en": "root"
-  },
-  {
-    "rank": 706,
-    "es": "comprar",
-    "en": "buy"
-  },
-  {
-    "rank": 707,
-    "es": "aumentar",
-    "en": "raise"
-  },
-  {
-    "rank": 708,
-    "es": "resolver",
-    "en": "solve"
-  },
-  {
-    "rank": 709,
-    "es": "de metal",
-    "en": "metal"
-  },
-  {
-    "rank": 710,
-    "es": "si",
-    "en": "whether"
-  },
-  {
-    "rank": 711,
-    "es": "empujar",
-    "en": "push"
-  },
-  {
-    "rank": 712,
-    "es": "siete",
-    "en": "seven"
-  },
-  {
-    "rank": 713,
-    "es": "párrafo",
-    "en": "paragraph"
-  },
-  {
-    "rank": 714,
-    "es": "tercero",
-    "en": "third"
-  },
-  {
-    "rank": 715,
-    "es": "deberá",
-    "en": "shall"
-  },
-  {
-    "rank": 716,
-    "es": "en espera",
-    "en": "held"
-  },
-  {
-    "rank": 717,
-    "es": "pelo",
-    "en": "hair"
-  },
-  {
-    "rank": 718,
-    "es": "describir",
-    "en": "describe"
-  },
-  {
-    "rank": 719,
-    "es": "cocinero",
-    "en": "cook"
-  },
-  {
-    "rank": 720,
-    "es": "piso",
-    "en": "floor"
-  },
-  {
-    "rank": 721,
-    "es": "ya sea",
-    "en": "either"
-  },
-  {
-    "rank": 722,
-    "es": "resultado",
-    "en": "result"
-  },
-  {
-    "rank": 723,
-    "es": "quemar",
-    "en": "burn"
-  },
-  {
-    "rank": 724,
-    "es": "colina",
-    "en": "hill"
-  },
-  {
-    "rank": 725,
-    "es": "seguro",
-    "en": "safe"
-  },
-  {
-    "rank": 726,
-    "es": "gato",
-    "en": "cat"
-  },
-  {
-    "rank": 727,
-    "es": "siglo",
-    "en": "century"
-  },
-  {
-    "rank": 728,
-    "es": "considerar",
-    "en": "consider"
-  },
-  {
-    "rank": 729,
-    "es": "tipo",
-    "en": "type"
-  },
-  {
-    "rank": 730,
-    "es": "ley",
-    "en": "law"
-  },
-  {
-    "rank": 731,
-    "es": "bit",
-    "en": "bit"
-  },
-  {
-    "rank": 732,
-    "es": "costa",
-    "en": "coast"
-  },
-  {
-    "rank": 733,
-    "es": "copia",
-    "en": "copy"
-  },
-  {
-    "rank": 734,
-    "es": "frase",
-    "en": "phrase"
-  },
-  {
-    "rank": 735,
-    "es": "silencio",
-    "en": "silent"
-  },
-  {
-    "rank": 736,
-    "es": "de altura",
-    "en": "tall"
-  },
-  {
-    "rank": 737,
-    "es": "arena",
-    "en": "sand"
-  },
-  {
-    "rank": 738,
-    "es": "suelo",
-    "en": "soil"
-  },
-  {
-    "rank": 739,
-    "es": "rollo",
-    "en": "roll"
-  },
-  {
-    "rank": 740,
-    "es": "temperatura",
-    "en": "temperature"
-  },
-  {
-    "rank": 741,
-    "es": "dedo",
-    "en": "finger"
-  },
-  {
-    "rank": 742,
-    "es": "industria",
-    "en": "industry"
-  },
-  {
-    "rank": 743,
-    "es": "valor",
-    "en": "value"
-  },
-  {
-    "rank": 744,
-    "es": "lucha",
-    "en": "fight"
-  },
-  {
-    "rank": 745,
-    "es": "mentira",
-    "en": "lie"
-  },
-  {
-    "rank": 746,
-    "es": "batir",
-    "en": "beat"
-  },
-  {
-    "rank": 747,
-    "es": "excitar",
-    "en": "excite"
-  },
-  {
-    "rank": 748,
-    "es": "naturales",
-    "en": "natural"
-  },
-  {
-    "rank": 749,
-    "es": "vista",
-    "en": "view"
-  },
-  {
-    "rank": 750,
-    "es": "sentido",
-    "en": "sense"
-  },
-  {
-    "rank": 751,
-    "es": "de capital",
-    "en": "capital"
-  },
-  {
-    "rank": 752,
-    "es": "no lo hará",
-    "en": "won't"
-  },
-  {
-    "rank": 753,
-    "es": "silla",
-    "en": "chair"
-  },
-  {
-    "rank": 754,
-    "es": "peligro",
-    "en": "danger"
-  },
-  {
-    "rank": 755,
-    "es": "fruta",
-    "en": "fruit"
-  },
-  {
-    "rank": 756,
-    "es": "rica",
-    "en": "rich"
-  },
-  {
-    "rank": 757,
-    "es": "de espesor",
-    "en": "thick"
-  },
-  {
-    "rank": 758,
-    "es": "soldado",
-    "en": "soldier"
-  },
-  {
-    "rank": 759,
-    "es": "proceso",
-    "en": "process"
-  },
-  {
-    "rank": 760,
-    "es": "operar",
-    "en": "operate"
-  },
-  {
-    "rank": 761,
-    "es": "práctica",
-    "en": "practice"
-  },
-  {
-    "rank": 762,
-    "es": "separada",
-    "en": "separate"
-  },
-  {
-    "rank": 763,
-    "es": "difícil",
-    "en": "difficult"
-  },
-  {
-    "rank": 764,
-    "es": "médico",
-    "en": "doctor"
-  },
-  {
-    "rank": 765,
-    "es": "por favor",
-    "en": "please"
-  },
-  {
-    "rank": 766,
-    "es": "proteger",
-    "en": "protect"
-  },
-  {
-    "rank": 767,
-    "es": "mediodía",
-    "en": "noon"
-  },
-  {
-    "rank": 768,
-    "es": "de cultivos",
-    "en": "crop"
-  },
-  {
-    "rank": 769,
-    "es": "moderno",
-    "en": "modern"
-  },
-  {
-    "rank": 770,
-    "es": "elemento",
-    "en": "element"
-  },
-  {
-    "rank": 771,
-    "es": "golpear",
-    "en": "hit"
-  },
-  {
-    "rank": 772,
-    "es": "estudiante",
-    "en": "student"
-  },
-  {
-    "rank": 773,
-    "es": "esquina",
-    "en": "corner"
-  },
-  {
-    "rank": 774,
-    "es": "partido",
-    "en": "party"
-  },
-  {
-    "rank": 775,
-    "es": "suministro",
-    "en": "supply"
-  },
-  {
-    "rank": 776,
-    "es": "cuya",
-    "en": "whose"
-  },
-  {
-    "rank": 777,
-    "es": "localizar",
-    "en": "locate"
-  },
-  {
-    "rank": 778,
-    "es": "anillo",
-    "en": "ring"
-  },
-  {
-    "rank": 779,
-    "es": "carácter",
-    "en": "character"
-  },
-  {
-    "rank": 780,
-    "es": "insecto",
-    "en": "insect"
-  },
-  {
-    "rank": 781,
-    "es": "capturado",
-    "en": "caught"
-  },
-  {
-    "rank": 782,
-    "es": "período",
-    "en": "period"
-  },
-  {
-    "rank": 783,
-    "es": "indicar",
-    "en": "indicate"
-  },
-  {
-    "rank": 784,
-    "es": "Radio",
-    "en": "radio"
-  },
-  {
-    "rank": 785,
-    "es": "habló",
-    "en": "spoke"
-  },
-  {
-    "rank": 786,
-    "es": "átomo",
-    "en": "atom"
-  },
-  {
-    "rank": 787,
-    "es": "humana",
-    "en": "human"
-  },
-  {
-    "rank": 788,
-    "es": "historia",
-    "en": "history"
-  },
-  {
-    "rank": 789,
-    "es": "efecto",
-    "en": "effect"
-  },
-  {
-    "rank": 790,
-    "es": "eléctrica",
-    "en": "electric"
-  },
-  {
-    "rank": 791,
-    "es": "esperar",
-    "en": "expect"
-  },
-  {
-    "rank": 792,
-    "es": "hueso",
-    "en": "bone"
-  },
-  {
-    "rank": 793,
-    "es": "ferrocarril",
-    "en": "rail"
-  },
-  {
-    "rank": 794,
-    "es": "imaginar",
-    "en": "imagine"
-  },
-  {
-    "rank": 795,
-    "es": "proporcionar",
-    "en": "provide"
-  },
-  {
-    "rank": 796,
-    "es": "acuerdo",
-    "en": "agree"
-  },
-  {
-    "rank": 797,
-    "es": "por tanto",
-    "en": "thus"
-  },
-  {
-    "rank": 798,
-    "es": "suave",
-    "en": "gentle"
-  },
-  {
-    "rank": 799,
-    "es": "mujer",
-    "en": "woman"
-  },
-  {
-    "rank": 800,
-    "es": "capitán",
-    "en": "captain"
-  },
-  {
-    "rank": 801,
-    "es": "adivinar",
-    "en": "guess"
-  },
-  {
-    "rank": 802,
-    "es": "necesario",
-    "en": "necessary"
-  },
-  {
-    "rank": 803,
-    "es": "agudo",
-    "en": "sharp"
-  },
-  {
-    "rank": 804,
-    "es": "ala",
-    "en": "wing"
-  },
-  {
-    "rank": 805,
-    "es": "crear",
-    "en": "create"
-  },
-  {
-    "rank": 806,
-    "es": "vecino",
-    "en": "neighbor"
-  },
-  {
-    "rank": 807,
-    "es": "lavado",
-    "en": "wash"
-  },
-  {
-    "rank": 808,
-    "es": "bate",
-    "en": "bat"
-  },
-  {
-    "rank": 809,
-    "es": "más bien",
-    "en": "rather"
-  },
-  {
-    "rank": 810,
-    "es": "multitud",
-    "en": "crowd"
-  },
-  {
-    "rank": 811,
-    "es": "maíz",
-    "en": "corn"
-  },
-  {
-    "rank": 812,
-    "es": "comparar",
-    "en": "compare"
-  },
-  {
-    "rank": 813,
-    "es": "poema",
-    "en": "poem"
-  },
-  {
-    "rank": 814,
-    "es": "cadena",
-    "en": "string"
-  },
-  {
-    "rank": 815,
-    "es": "campana",
-    "en": "bell"
-  },
-  {
-    "rank": 816,
-    "es": "dependerá",
-    "en": "depend"
-  },
-  {
-    "rank": 817,
-    "es": "carne",
-    "en": "meat"
-  },
-  {
-    "rank": 818,
-    "es": "frotar",
-    "en": "rub"
-  },
-  {
-    "rank": 819,
-    "es": "tubo",
-    "en": "tube"
-  },
-  {
-    "rank": 820,
-    "es": "famoso",
-    "en": "famous"
-  },
-  {
-    "rank": 821,
-    "es": "dólar",
-    "en": "dollar"
-  },
-  {
-    "rank": 822,
-    "es": "corriente",
-    "en": "stream"
-  },
-  {
-    "rank": 823,
-    "es": "miedo",
-    "en": "fear"
-  },
-  {
-    "rank": 824,
-    "es": "vista",
-    "en": "sight"
-  },
-  {
-    "rank": 825,
-    "es": "delgado",
-    "en": "thin"
-  },
-  {
-    "rank": 826,
-    "es": "triángulo",
-    "en": "triangle"
-  },
-  {
-    "rank": 827,
-    "es": "planeta",
-    "en": "planet"
-  },
-  {
-    "rank": 828,
-    "es": "prisa",
-    "en": "hurry"
-  },
-  {
-    "rank": 829,
-    "es": "jefe",
-    "en": "chief"
-  },
-  {
-    "rank": 830,
-    "es": "colonia",
-    "en": "colony"
-  },
-  {
-    "rank": 831,
-    "es": "reloj",
-    "en": "clock"
-  },
-  {
-    "rank": 832,
-    "es": "mina",
-    "en": "mine"
-  },
-  {
-    "rank": 833,
-    "es": "empate",
-    "en": "tie"
-  },
-  {
-    "rank": 834,
-    "es": "entrar",
-    "en": "enter"
-  },
-  {
-    "rank": 835,
-    "es": "importante",
-    "en": "major"
-  },
-  {
-    "rank": 836,
-    "es": "fresco",
-    "en": "fresh"
-  },
-  {
-    "rank": 837,
-    "es": "búsqueda",
-    "en": "search"
-  },
-  {
-    "rank": 838,
-    "es": "enviar",
-    "en": "send"
-  },
-  {
-    "rank": 839,
-    "es": "amarillo",
-    "en": "yellow"
-  },
-  {
-    "rank": 840,
-    "es": "pistola",
-    "en": "gun"
-  },
-  {
-    "rank": 841,
-    "es": "permitir",
-    "en": "allow"
-  },
-  {
-    "rank": 842,
-    "es": "print",
-    "en": "print"
-  },
-  {
-    "rank": 843,
-    "es": "muerto",
-    "en": "dead"
-  },
-  {
-    "rank": 844,
-    "es": "lugar",
-    "en": "spot"
-  },
-  {
-    "rank": 845,
-    "es": "desierto",
-    "en": "desert"
-  },
-  {
-    "rank": 846,
-    "es": "traje",
-    "en": "suit"
-  },
-  {
-    "rank": 847,
-    "es": "actual",
-    "en": "current"
-  },
-  {
-    "rank": 848,
-    "es": "ascensor",
-    "en": "lift"
-  },
-  {
-    "rank": 849,
-    "es": "rosa",
-    "en": "rose"
-  },
-  {
-    "rank": 850,
-    "es": "llegar",
-    "en": "arrive"
-  },
-  {
-    "rank": 851,
-    "es": "master",
-    "en": "master"
-  },
-  {
-    "rank": 852,
-    "es": "pista",
-    "en": "track"
-  },
-  {
-    "rank": 853,
-    "es": "padre",
-    "en": "parent"
-  },
-  {
-    "rank": 854,
-    "es": "orilla",
-    "en": "shore"
-  },
-  {
-    "rank": 855,
-    "es": "división",
-    "en": "division"
-  },
-  {
-    "rank": 856,
-    "es": "hoja",
-    "en": "sheet"
-  },
-  {
-    "rank": 857,
-    "es": "sustancia",
-    "en": "substance"
-  },
-  {
-    "rank": 858,
-    "es": "favorecer",
-    "en": "favor"
-  },
-  {
-    "rank": 859,
-    "es": "conectar",
-    "en": "connect"
-  },
-  {
-    "rank": 860,
-    "es": "mensaje",
-    "en": "post"
-  },
-  {
-    "rank": 861,
-    "es": "pasar",
-    "en": "spend"
-  },
-  {
-    "rank": 862,
-    "es": "acorde",
-    "en": "chord"
-  },
-  {
-    "rank": 863,
-    "es": "grasa",
-    "en": "fat"
-  },
-  {
-    "rank": 864,
-    "es": "contento",
-    "en": "glad"
-  },
-  {
-    "rank": 865,
-    "es": "originales",
-    "en": "original"
-  },
-  {
-    "rank": 866,
-    "es": "cuota",
-    "en": "share"
-  },
-  {
-    "rank": 867,
-    "es": "estación",
-    "en": "station"
-  },
-  {
-    "rank": 868,
-    "es": "papá",
-    "en": "dad"
-  },
-  {
-    "rank": 869,
-    "es": "pan",
-    "en": "bread"
-  },
-  {
-    "rank": 870,
-    "es": "cobrar",
-    "en": "charge"
-  },
-  {
-    "rank": 871,
-    "es": "adecuada",
-    "en": "proper"
-  },
-  {
-    "rank": 872,
-    "es": "barra",
-    "en": "bar"
-  },
-  {
-    "rank": 873,
-    "es": "oferta",
-    "en": "offer"
-  },
-  {
-    "rank": 874,
-    "es": "segmento",
-    "en": "segment"
-  },
-  {
-    "rank": 875,
-    "es": "esclavo",
-    "en": "slave"
-  },
-  {
-    "rank": 876,
-    "es": "pato",
-    "en": "duck"
-  },
-  {
-    "rank": 877,
-    "es": "instantánea",
-    "en": "instant"
-  },
-  {
-    "rank": 878,
-    "es": "mercado",
-    "en": "market"
-  },
-  {
-    "rank": 879,
-    "es": "grado",
-    "en": "degree"
-  },
-  {
-    "rank": 880,
-    "es": "poblar",
-    "en": "populate"
-  },
-  {
-    "rank": 881,
-    "es": "polluelo",
-    "en": "chick"
-  },
-  {
-    "rank": 882,
-    "es": "querido",
-    "en": "dear"
-  },
-  {
-    "rank": 883,
-    "es": "enemigo",
-    "en": "enemy"
-  },
-  {
-    "rank": 884,
-    "es": "responder",
-    "en": "reply"
-  },
-  {
-    "rank": 885,
-    "es": "bebida",
-    "en": "drink"
-  },
-  {
-    "rank": 886,
-    "es": "producirse",
-    "en": "occur"
-  },
-  {
-    "rank": 887,
-    "es": "apoyo",
-    "en": "support"
-  },
-  {
-    "rank": 888,
-    "es": "discurso",
-    "en": "speech"
-  },
-  {
-    "rank": 889,
-    "es": "naturaleza",
-    "en": "nature"
-  },
-  {
-    "rank": 890,
-    "es": "alcance",
-    "en": "range"
-  },
-  {
-    "rank": 891,
-    "es": "vapor",
-    "en": "steam"
-  },
-  {
-    "rank": 892,
-    "es": "movimiento",
-    "en": "motion"
-  },
-  {
-    "rank": 893,
-    "es": "camino",
-    "en": "path"
-  },
-  {
-    "rank": 894,
-    "es": "líquido",
-    "en": "liquid"
-  },
-  {
-    "rank": 895,
-    "es": "log",
-    "en": "log"
-  },
-  {
-    "rank": 896,
-    "es": "significado",
-    "en": "meant"
-  },
-  {
-    "rank": 897,
-    "es": "cociente",
-    "en": "quotient"
-  },
-  {
-    "rank": 898,
-    "es": "dientes",
-    "en": "teeth"
-  },
-  {
-    "rank": 899,
-    "es": "concha",
-    "en": "shell"
-  },
-  {
-    "rank": 900,
-    "es": "cuello",
-    "en": "neck"
-  },
-  {
-    "rank": 901,
-    "es": "oxígeno",
-    "en": "oxygen"
-  },
-  {
-    "rank": 902,
-    "es": "azúcar",
-    "en": "sugar"
-  },
-  {
-    "rank": 903,
-    "es": "muerte",
-    "en": "death"
-  },
-  {
-    "rank": 904,
-    "es": "bastante",
-    "en": "pretty"
-  },
-  {
-    "rank": 905,
-    "es": "habilidad",
-    "en": "skill"
-  },
-  {
-    "rank": 906,
-    "es": "mujeres",
-    "en": "women"
-  },
-  {
-    "rank": 907,
-    "es": "temporada",
-    "en": "season"
-  },
-  {
-    "rank": 908,
-    "es": "solución",
-    "en": "solution"
-  },
-  {
-    "rank": 909,
-    "es": "imán",
-    "en": "magnet"
-  },
-  {
-    "rank": 910,
-    "es": "plata",
-    "en": "silver"
-  },
-  {
-    "rank": 911,
-    "es": "gracias",
-    "en": "thank"
-  },
-  {
-    "rank": 912,
-    "es": "rama",
-    "en": "branch"
-  },
-  {
-    "rank": 913,
-    "es": "partido",
-    "en": "match"
-  },
-  {
-    "rank": 914,
-    "es": "sufijo",
-    "en": "suffix"
-  },
-  {
-    "rank": 915,
-    "es": "especialmente",
-    "en": "especially"
-  },
-  {
-    "rank": 916,
-    "es": "higo",
-    "en": "fig"
-  },
-  {
-    "rank": 917,
-    "es": "miedo",
-    "en": "afraid"
-  },
-  {
-    "rank": 918,
-    "es": "enorme",
-    "en": "huge"
-  },
-  {
-    "rank": 919,
-    "es": "hermana",
-    "en": "sister"
-  },
-  {
-    "rank": 920,
-    "es": "acero",
-    "en": "steel"
-  },
-  {
-    "rank": 921,
-    "es": "discutir",
-    "en": "discuss"
-  },
-  {
-    "rank": 922,
-    "es": "adelante",
-    "en": "forward"
-  },
-  {
-    "rank": 923,
-    "es": "similar",
-    "en": "similar"
-  },
-  {
-    "rank": 924,
-    "es": "guiar",
-    "en": "guide"
-  },
-  {
-    "rank": 925,
-    "es": "experiencia",
-    "en": "experience"
-  },
-  {
-    "rank": 926,
-    "es": "puntuación",
-    "en": "score"
-  },
-  {
-    "rank": 927,
-    "es": "manzana",
-    "en": "apple"
-  },
-  {
-    "rank": 928,
-    "es": "comprado",
-    "en": "bought"
-  },
-  {
-    "rank": 929,
-    "es": "llevado",
-    "en": "led"
-  },
-  {
-    "rank": 930,
-    "es": "pitch",
-    "en": "pitch"
-  },
-  {
-    "rank": 931,
-    "es": "abrigo",
-    "en": "coat"
-  },
-  {
-    "rank": 932,
-    "es": "masa",
-    "en": "mass"
-  },
-  {
-    "rank": 933,
-    "es": "tarjeta",
-    "en": "card"
-  },
-  {
-    "rank": 934,
-    "es": "banda",
-    "en": "band"
-  },
-  {
-    "rank": 935,
-    "es": "cuerda",
-    "en": "rope"
-  },
-  {
-    "rank": 936,
-    "es": "deslizamiento",
-    "en": "slip"
-  },
-  {
-    "rank": 937,
-    "es": "ganar",
-    "en": "win"
-  },
-  {
-    "rank": 938,
-    "es": "soñar",
-    "en": "dream"
-  },
-  {
-    "rank": 939,
-    "es": "noche",
-    "en": "evening"
-  },
-  {
-    "rank": 940,
-    "es": "condición",
-    "en": "condition"
-  },
-  {
-    "rank": 941,
-    "es": "pienso",
-    "en": "feed"
-  },
-  {
-    "rank": 942,
-    "es": "herramienta",
-    "en": "tool"
-  },
-  {
-    "rank": 943,
-    "es": "totales",
-    "en": "total"
-  },
-  {
-    "rank": 944,
-    "es": "básico",
-    "en": "basic"
-  },
-  {
-    "rank": 945,
-    "es": "olor",
-    "en": "smell"
-  },
-  {
-    "rank": 946,
-    "es": "valle",
-    "en": "valley"
-  },
-  {
-    "rank": 947,
-    "es": "ni",
-    "en": "nor"
-  },
-  {
-    "rank": 948,
-    "es": "doble",
-    "en": "double"
-  },
-  {
-    "rank": 949,
-    "es": "asiento",
-    "en": "seat"
-  },
-  {
-    "rank": 950,
-    "es": "continuar",
-    "en": "continue"
-  },
-  {
-    "rank": 951,
-    "es": "bloque",
-    "en": "block"
-  },
-  {
-    "rank": 952,
-    "es": "tabla",
-    "en": "chart"
-  },
-  {
-    "rank": 953,
-    "es": "sombrero",
-    "en": "hat"
-  },
-  {
-    "rank": 954,
-    "es": "vender",
-    "en": "sell"
-  },
-  {
-    "rank": 955,
-    "es": "éxito",
-    "en": "success"
-  },
-  {
-    "rank": 956,
-    "es": "empresa",
-    "en": "company"
-  },
-  {
-    "rank": 957,
-    "es": "restar",
-    "en": "subtract"
-  },
-  {
-    "rank": 958,
-    "es": "evento",
-    "en": "event"
-  },
-  {
-    "rank": 959,
-    "es": "particular",
-    "en": "particular"
-  },
-  {
-    "rank": 960,
-    "es": "acuerdo",
-    "en": "deal"
-  },
-  {
-    "rank": 961,
-    "es": "nadar",
-    "en": "swim"
-  },
-  {
-    "rank": 962,
-    "es": "plazo",
-    "en": "term"
-  },
-  {
-    "rank": 963,
-    "es": "opuesta",
-    "en": "opposite"
-  },
-  {
-    "rank": 964,
-    "es": "esposa",
-    "en": "wife"
-  },
-  {
-    "rank": 965,
-    "es": "zapato",
-    "en": "shoe"
-  },
-  {
-    "rank": 966,
-    "es": "hombro",
-    "en": "shoulder"
-  },
-  {
-    "rank": 967,
-    "es": "propagación",
-    "en": "spread"
-  },
-  {
-    "rank": 968,
-    "es": "organizar",
-    "en": "arrange"
-  },
-  {
-    "rank": 969,
-    "es": "campamento",
-    "en": "camp"
-  },
-  {
-    "rank": 970,
-    "es": "inventar",
-    "en": "invent"
-  },
-  {
-    "rank": 971,
-    "es": "algodón",
-    "en": "cotton"
-  },
-  {
-    "rank": 972,
-    "es": "nacido",
-    "en": "born"
-  },
-  {
-    "rank": 973,
-    "es": "determinar",
-    "en": "determine"
-  },
-  {
-    "rank": 974,
-    "es": "cuarto de galón",
-    "en": "quart"
-  },
-  {
-    "rank": 975,
-    "es": "nueve",
-    "en": "nine"
-  },
-  {
-    "rank": 976,
-    "es": "camión",
-    "en": "truck"
-  },
-  {
-    "rank": 977,
-    "es": "ruido",
-    "en": "noise"
-  },
-  {
-    "rank": 978,
-    "es": "nivel",
-    "en": "level"
-  },
-  {
-    "rank": 979,
-    "es": "oportunidad",
-    "en": "chance"
-  },
-  {
-    "rank": 980,
-    "es": "reunir",
-    "en": "gather"
-  },
-  {
-    "rank": 981,
-    "es": "tienda",
-    "en": "shop"
-  },
-  {
-    "rank": 982,
-    "es": "tramo",
-    "en": "stretch"
-  },
-  {
-    "rank": 983,
-    "es": "lanzar",
-    "en": "throw"
-  },
-  {
-    "rank": 984,
-    "es": "brillo",
-    "en": "shine"
-  },
-  {
-    "rank": 985,
-    "es": "propiedad",
-    "en": "property"
-  },
-  {
-    "rank": 986,
-    "es": "columna",
-    "en": "column"
-  },
-  {
-    "rank": 987,
-    "es": "molécula",
-    "en": "molecule"
-  },
-  {
-    "rank": 988,
-    "es": "seleccionar",
-    "en": "select"
-  },
-  {
-    "rank": 989,
-    "es": "mal",
-    "en": "wrong"
-  },
-  {
-    "rank": 990,
-    "es": "gris",
-    "en": "gray"
-  },
-  {
-    "rank": 991,
-    "es": "repita",
-    "en": "repeat"
-  },
-  {
-    "rank": 992,
-    "es": "exigir",
-    "en": "require"
-  },
-  {
-    "rank": 993,
-    "es": "amplio",
-    "en": "broad"
-  },
-  {
-    "rank": 994,
-    "es": "preparar",
-    "en": "prepare"
-  },
-  {
-    "rank": 995,
-    "es": "sal",
-    "en": "salt"
-  },
-  {
-    "rank": 996,
-    "es": "nariz",
-    "en": "nose"
-  },
-  {
-    "rank": 997,
-    "es": "plurales",
-    "en": "plural"
-  },
-  {
-    "rank": 998,
-    "es": "cólera",
-    "en": "anger"
-  },
-  {
-    "rank": 999,
-    "es": "reclamación",
-    "en": "claim"
-  },
-  {
-    "rank": 1000,
-    "es": "continente",
-    "en": "continent"
+    "es": "otoño",
+    "en": "autumn",
+    "type": "noun"
   }
 ]
