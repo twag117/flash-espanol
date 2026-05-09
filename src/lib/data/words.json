@@ -2,2700 +2,3150 @@
   {
     "rank": 1,
     "es": "tiempo",
+    "pronunciation": "TYEM-poh",
     "en": "time",
     "type": "noun"
   },
   {
     "rank": 2,
     "es": "año",
+    "pronunciation": "AH-nyoh",
     "en": "year",
     "type": "noun"
   },
   {
     "rank": 3,
     "es": "día",
+    "pronunciation": "DEE-ah",
     "en": "day",
     "type": "noun"
   },
   {
     "rank": 4,
     "es": "vez",
+    "pronunciation": "BETH",
     "en": "time/instance",
     "type": "noun"
   },
   {
     "rank": 5,
     "es": "vida",
+    "pronunciation": "BEE-dah",
     "en": "life",
     "type": "noun"
   },
   {
     "rank": 6,
     "es": "hombre",
+    "pronunciation": "OM-bray",
     "en": "man",
     "type": "noun"
   },
   {
     "rank": 7,
     "es": "mujer",
+    "pronunciation": "moo-HEHR",
     "en": "woman",
     "type": "noun"
   },
   {
     "rank": 8,
     "es": "casa",
+    "pronunciation": "KAH-sah",
     "en": "house",
     "type": "noun"
   },
   {
     "rank": 9,
     "es": "parte",
+    "pronunciation": "PAR-tay",
     "en": "part",
     "type": "noun"
   },
   {
     "rank": 10,
     "es": "país",
+    "pronunciation": "pah-EES",
     "en": "country",
     "type": "noun"
   },
   {
     "rank": 11,
     "es": "mundo",
+    "pronunciation": "MOON-doh",
     "en": "world",
     "type": "noun"
   },
   {
     "rank": 12,
     "es": "caso",
+    "pronunciation": "KAH-soh",
     "en": "case",
     "type": "noun"
   },
   {
     "rank": 13,
     "es": "gobierno",
+    "pronunciation": "goh-BYEHR-noh",
     "en": "government",
     "type": "noun"
   },
   {
     "rank": 14,
     "es": "trabajo",
+    "pronunciation": "trah-BAH-khoh",
     "en": "work",
     "type": "noun"
   },
   {
     "rank": 15,
     "es": "lugar",
+    "pronunciation": "loo-GAR",
     "en": "place",
     "type": "noun"
   },
   {
     "rank": 16,
     "es": "manera",
+    "pronunciation": "mah-NEH-rah",
     "en": "manner/way",
     "type": "noun"
   },
   {
     "rank": 17,
     "es": "forma",
+    "pronunciation": "FOR-mah",
     "en": "form/way",
     "type": "noun"
   },
   {
     "rank": 18,
     "es": "punto",
+    "pronunciation": "POON-toh",
     "en": "point",
     "type": "noun"
   },
   {
     "rank": 19,
     "es": "momento",
+    "pronunciation": "moh-MEN-toh",
     "en": "moment",
     "type": "noun"
   },
   {
     "rank": 20,
     "es": "número",
+    "pronunciation": "NOO-meh-roh",
     "en": "number",
     "type": "noun"
   },
   {
     "rank": 21,
     "es": "grupo",
+    "pronunciation": "GROO-poh",
     "en": "group",
     "type": "noun"
   },
   {
     "rank": 22,
     "es": "problema",
+    "pronunciation": "proh-BLEH-mah",
     "en": "problem",
     "type": "noun"
   },
   {
     "rank": 23,
     "es": "mano",
+    "pronunciation": "MAH-noh",
     "en": "hand",
     "type": "noun"
   },
   {
     "rank": 24,
     "es": "estado",
+    "pronunciation": "es-TAH-doh",
     "en": "state",
     "type": "noun"
   },
   {
     "rank": 25,
     "es": "padre",
+    "pronunciation": "PAH-dray",
     "en": "father",
     "type": "noun"
   },
   {
     "rank": 26,
     "es": "madre",
+    "pronunciation": "MAH-dray",
     "en": "mother",
     "type": "noun"
   },
   {
     "rank": 27,
     "es": "hijo",
+    "pronunciation": "EE-khoh",
     "en": "son",
     "type": "noun"
   },
   {
     "rank": 28,
     "es": "hija",
+    "pronunciation": "EE-khah",
     "en": "daughter",
     "type": "noun"
   },
   {
     "rank": 29,
     "es": "amigo",
+    "pronunciation": "ah-MEE-goh",
     "en": "friend",
     "type": "noun"
   },
   {
     "rank": 30,
     "es": "ciudad",
+    "pronunciation": "thyoo-DAHTH",
     "en": "city",
     "type": "noun"
   },
   {
     "rank": 31,
     "es": "noche",
+    "pronunciation": "NOH-chay",
     "en": "night",
     "type": "noun"
   },
   {
     "rank": 32,
     "es": "agua",
+    "pronunciation": "AH-gwah",
     "en": "water",
     "type": "noun"
   },
   {
     "rank": 33,
     "es": "historia",
+    "pronunciation": "ees-TOH-ryah",
     "en": "story/history",
     "type": "noun"
   },
   {
     "rank": 34,
     "es": "cosa",
+    "pronunciation": "KOH-sah",
     "en": "thing",
     "type": "noun"
   },
   {
     "rank": 35,
     "es": "guerra",
+    "pronunciation": "GEH-rrah",
     "en": "war",
     "type": "noun"
   },
   {
     "rank": 36,
     "es": "palabra",
+    "pronunciation": "pah-LAH-brah",
     "en": "word",
     "type": "noun"
   },
   {
     "rank": 37,
     "es": "razón",
+    "pronunciation": "rrah-THON",
     "en": "reason",
     "type": "noun"
   },
   {
     "rank": 38,
     "es": "verdad",
+    "pronunciation": "behr-DAHTH",
     "en": "truth",
     "type": "noun"
   },
   {
     "rank": 39,
     "es": "fuerza",
+    "pronunciation": "FWEHR-thah",
     "en": "force/strength",
     "type": "noun"
   },
   {
     "rank": 40,
     "es": "cara",
+    "pronunciation": "KAH-rah",
     "en": "face",
     "type": "noun"
   },
   {
     "rank": 41,
     "es": "tipo",
+    "pronunciation": "TEE-poh",
     "en": "type/guy",
     "type": "noun"
   },
   {
     "rank": 42,
     "es": "puerta",
+    "pronunciation": "PWEHR-tah",
     "en": "door",
     "type": "noun"
   },
   {
     "rank": 43,
     "es": "nombre",
+    "pronunciation": "NOM-bray",
     "en": "name",
     "type": "noun"
   },
   {
     "rank": 44,
     "es": "ojo",
+    "pronunciation": "OH-khoh",
     "en": "eye",
     "type": "noun"
   },
   {
     "rank": 45,
     "es": "calle",
+    "pronunciation": "KAH-lyay",
     "en": "street",
     "type": "noun"
   },
   {
     "rank": 46,
     "es": "señor",
+    "pronunciation": "seh-NYOR",
     "en": "sir/Mr.",
     "type": "noun"
   },
   {
     "rank": 47,
     "es": "señora",
+    "pronunciation": "seh-NYOH-rah",
     "en": "lady/Mrs.",
     "type": "noun"
   },
   {
     "rank": 48,
     "es": "niño",
+    "pronunciation": "NEE-nyoh",
     "en": "boy/child",
     "type": "noun"
   },
   {
     "rank": 49,
     "es": "niña",
+    "pronunciation": "NEE-nyah",
     "en": "girl",
     "type": "noun"
   },
   {
     "rank": 50,
     "es": "ejemplo",
+    "pronunciation": "eh-KHEM-ploh",
     "en": "example",
     "type": "noun"
   },
   {
     "rank": 51,
     "es": "presidente",
+    "pronunciation": "preh-see-DEN-tay",
     "en": "president",
     "type": "noun"
   },
   {
     "rank": 52,
     "es": "cuerpo",
+    "pronunciation": "KWEHR-poh",
     "en": "body",
     "type": "noun"
   },
   {
     "rank": 53,
     "es": "fin",
+    "pronunciation": "FEEN",
     "en": "end",
     "type": "noun"
   },
   {
     "rank": 54,
     "es": "obra",
+    "pronunciation": "OH-brah",
     "en": "work/play",
     "type": "noun"
   },
   {
     "rank": 55,
     "es": "ley",
+    "pronunciation": "LAY",
     "en": "law",
     "type": "noun"
   },
   {
     "rank": 56,
     "es": "época",
+    "pronunciation": "EH-poh-kah",
     "en": "era/epoch",
     "type": "noun"
   },
   {
     "rank": 57,
     "es": "familia",
+    "pronunciation": "fah-MEE-lyah",
     "en": "family",
     "type": "noun"
   },
   {
     "rank": 58,
     "es": "gente",
+    "pronunciation": "KHEN-tay",
     "en": "people",
     "type": "noun"
   },
   {
     "rank": 59,
     "es": "luz",
+    "pronunciation": "LOOTH",
     "en": "light",
     "type": "noun"
   },
   {
     "rank": 60,
     "es": "voz",
+    "pronunciation": "BOTH",
     "en": "voice",
     "type": "noun"
   },
   {
     "rank": 61,
     "es": "tierra",
+    "pronunciation": "TYEH-rrah",
     "en": "earth/land",
     "type": "noun"
   },
   {
     "rank": 62,
     "es": "libro",
+    "pronunciation": "LEE-broh",
     "en": "book",
     "type": "noun"
   },
   {
     "rank": 63,
     "es": "cabeza",
+    "pronunciation": "kah-BEH-thah",
     "en": "head",
     "type": "noun"
   },
   {
     "rank": 64,
     "es": "siglo",
+    "pronunciation": "SEE-gloh",
     "en": "century",
     "type": "noun"
   },
   {
     "rank": 65,
     "es": "hora",
+    "pronunciation": "OH-rah",
     "en": "hour",
     "type": "noun"
   },
   {
     "rank": 66,
     "es": "amor",
+    "pronunciation": "ah-MOR",
     "en": "love",
     "type": "noun"
   },
   {
     "rank": 67,
     "es": "muerte",
+    "pronunciation": "MWEHR-tay",
     "en": "death",
     "type": "noun"
   },
   {
     "rank": 68,
     "es": "ministro",
+    "pronunciation": "mee-NEES-troh",
     "en": "minister",
     "type": "noun"
   },
   {
     "rank": 69,
     "es": "millón",
+    "pronunciation": "mee-LYON",
     "en": "million",
     "type": "noun"
   },
   {
     "rank": 70,
     "es": "mes",
+    "pronunciation": "MES",
     "en": "month",
     "type": "noun"
   },
   {
     "rank": 71,
     "es": "policía",
+    "pronunciation": "poh-lee-THEE-ah",
     "en": "police",
     "type": "noun"
   },
   {
     "rank": 72,
     "es": "sistema",
+    "pronunciation": "sees-TEH-mah",
     "en": "system",
     "type": "noun"
   },
   {
     "rank": 73,
     "es": "general",
+    "pronunciation": "kheh-neh-RAHL",
     "en": "general",
     "type": "noun"
   },
   {
     "rank": 74,
     "es": "empresa",
+    "pronunciation": "em-PREH-sah",
     "en": "company",
     "type": "noun"
   },
   {
     "rank": 75,
     "es": "campo",
+    "pronunciation": "KAHM-poh",
     "en": "field/countryside",
     "type": "noun"
   },
   {
     "rank": 76,
     "es": "pueblo",
+    "pronunciation": "PWEH-bloh",
     "en": "town/people",
     "type": "noun"
   },
   {
     "rank": 77,
     "es": "esposo",
+    "pronunciation": "es-POH-soh",
     "en": "husband",
     "type": "noun"
   },
   {
     "rank": 78,
     "es": "esposa",
+    "pronunciation": "es-POH-sah",
     "en": "wife",
     "type": "noun"
   },
   {
     "rank": 79,
     "es": "fuego",
+    "pronunciation": "FWEH-goh",
     "en": "fire",
     "type": "noun"
   },
   {
     "rank": 80,
     "es": "sangre",
+    "pronunciation": "SAHN-gray",
     "en": "blood",
     "type": "noun"
   },
   {
     "rank": 81,
     "es": "centro",
+    "pronunciation": "THEN-troh",
     "en": "center",
     "type": "noun"
   },
   {
     "rank": 82,
     "es": "música",
+    "pronunciation": "MOO-see-kah",
     "en": "music",
     "type": "noun"
   },
   {
     "rank": 83,
     "es": "habitación",
+    "pronunciation": "ah-bee-tah-THYON",
     "en": "room",
     "type": "noun"
   },
   {
     "rank": 84,
     "es": "papel",
+    "pronunciation": "pah-PEL",
     "en": "paper/role",
     "type": "noun"
   },
   {
     "rank": 85,
     "es": "minuto",
+    "pronunciation": "mee-NOO-toh",
     "en": "minute",
     "type": "noun"
   },
   {
     "rank": 86,
     "es": "boca",
+    "pronunciation": "BOH-kah",
     "en": "mouth",
     "type": "noun"
   },
   {
     "rank": 87,
     "es": "pie",
+    "pronunciation": "PYAY",
     "en": "foot",
     "type": "noun"
   },
   {
     "rank": 88,
     "es": "brazo",
+    "pronunciation": "BRAH-thoh",
     "en": "arm",
     "type": "noun"
   },
   {
     "rank": 89,
     "es": "pierna",
+    "pronunciation": "PYEHR-nah",
     "en": "leg",
     "type": "noun"
   },
   {
     "rank": 90,
     "es": "corazón",
+    "pronunciation": "koh-rah-THON",
     "en": "heart",
     "type": "noun"
   },
   {
     "rank": 91,
     "es": "cuenta",
+    "pronunciation": "KWEN-tah",
     "en": "account/bill",
     "type": "noun"
   },
   {
     "rank": 92,
     "es": "espacio",
+    "pronunciation": "es-PAH-thyoh",
     "en": "space",
     "type": "noun"
   },
   {
     "rank": 93,
     "es": "tarde",
+    "pronunciation": "TAR-day",
     "en": "afternoon",
     "type": "noun"
   },
   {
     "rank": 94,
     "es": "mañana",
+    "pronunciation": "mah-NYAH-nah",
     "en": "morning",
     "type": "noun"
   },
   {
     "rank": 95,
     "es": "semana",
+    "pronunciation": "seh-MAH-nah",
     "en": "week",
     "type": "noun"
   },
   {
     "rank": 96,
     "es": "información",
+    "pronunciation": "een-for-mah-THYON",
     "en": "information",
     "type": "noun"
   },
   {
     "rank": 97,
     "es": "idea",
+    "pronunciation": "ee-DEH-ah",
     "en": "idea",
     "type": "noun"
   },
   {
     "rank": 98,
     "es": "nivel",
+    "pronunciation": "nee-BEL",
     "en": "level",
     "type": "noun"
   },
   {
     "rank": 99,
     "es": "mar",
+    "pronunciation": "MAR",
     "en": "sea",
     "type": "noun"
   },
   {
     "rank": 100,
     "es": "modo",
+    "pronunciation": "MOH-doh",
     "en": "way/mode",
     "type": "noun"
   },
   {
     "rank": 101,
     "es": "calidad",
+    "pronunciation": "kah-lee-DAHTH",
     "en": "quality",
     "type": "noun"
   },
   {
     "rank": 102,
     "es": "presencia",
+    "pronunciation": "preh-SEN-thyah",
     "en": "presence",
     "type": "noun"
   },
   {
     "rank": 103,
     "es": "rey",
+    "pronunciation": "RRAY",
     "en": "king",
     "type": "noun"
   },
   {
     "rank": 104,
     "es": "reina",
+    "pronunciation": "RRAY-nah",
     "en": "queen",
     "type": "noun"
   },
   {
     "rank": 105,
     "es": "esfuerzo",
+    "pronunciation": "es-FWEHR-thoh",
     "en": "effort",
     "type": "noun"
   },
   {
     "rank": 106,
     "es": "estudio",
+    "pronunciation": "es-TOO-dyoh",
     "en": "study",
     "type": "noun"
   },
   {
     "rank": 107,
     "es": "interés",
+    "pronunciation": "een-teh-RES",
     "en": "interest",
     "type": "noun"
   },
   {
     "rank": 108,
     "es": "valor",
+    "pronunciation": "bah-LOR",
     "en": "value/courage",
     "type": "noun"
   },
   {
     "rank": 109,
     "es": "color",
+    "pronunciation": "koh-LOR",
     "en": "color",
     "type": "noun"
   },
   {
     "rank": 110,
     "es": "viaje",
+    "pronunciation": "BYAH-khay",
     "en": "trip",
     "type": "noun"
   },
   {
     "rank": 111,
     "es": "carta",
+    "pronunciation": "KAR-tah",
     "en": "letter",
     "type": "noun"
   },
   {
     "rank": 112,
     "es": "carrera",
+    "pronunciation": "kah-RREH-rah",
     "en": "career/race",
     "type": "noun"
   },
   {
     "rank": 113,
     "es": "objeto",
+    "pronunciation": "ob-KHEH-toh",
     "en": "object",
     "type": "noun"
   },
   {
     "rank": 114,
     "es": "servicio",
+    "pronunciation": "sehr-BEE-thyoh",
     "en": "service",
     "type": "noun"
   },
   {
     "rank": 115,
     "es": "voluntad",
+    "pronunciation": "boh-loon-TAHTH",
     "en": "will",
     "type": "noun"
   },
   {
     "rank": 116,
     "es": "tema",
+    "pronunciation": "TEH-mah",
     "en": "theme/topic",
     "type": "noun"
   },
   {
     "rank": 117,
     "es": "experiencia",
+    "pronunciation": "ex-peh-RYEN-thyah",
     "en": "experience",
     "type": "noun"
   },
   {
     "rank": 118,
     "es": "imagen",
+    "pronunciation": "ee-MAH-khen",
     "en": "image",
     "type": "noun"
   },
   {
     "rank": 119,
     "es": "región",
+    "pronunciation": "rreh-KHYON",
     "en": "region",
     "type": "noun"
   },
   {
     "rank": 120,
     "es": "miedo",
+    "pronunciation": "MYEH-doh",
     "en": "fear",
     "type": "noun"
   },
   {
     "rank": 121,
     "es": "ventana",
+    "pronunciation": "ben-TAH-nah",
     "en": "window",
     "type": "noun"
   },
   {
     "rank": 122,
     "es": "mesa",
+    "pronunciation": "MEH-sah",
     "en": "table",
     "type": "noun"
   },
   {
     "rank": 123,
     "es": "silla",
+    "pronunciation": "SEE-lyah",
     "en": "chair",
     "type": "noun"
   },
   {
     "rank": 124,
     "es": "cama",
+    "pronunciation": "KAH-mah",
     "en": "bed",
     "type": "noun"
   },
   {
     "rank": 125,
     "es": "coche",
+    "pronunciation": "KOH-chay",
     "en": "car",
     "type": "noun"
   },
   {
     "rank": 126,
     "es": "carro",
+    "pronunciation": "KAH-rroh",
     "en": "car",
     "type": "noun"
   },
   {
     "rank": 127,
     "es": "auto",
+    "pronunciation": "OW-toh",
     "en": "car",
     "type": "noun"
   },
   {
     "rank": 128,
     "es": "moto",
+    "pronunciation": "MOH-toh",
     "en": "motorcycle",
     "type": "noun"
   },
   {
     "rank": 129,
     "es": "tren",
+    "pronunciation": "TREN",
     "en": "train",
     "type": "noun"
   },
   {
     "rank": 130,
     "es": "avión",
+    "pronunciation": "ah-BYON",
     "en": "plane",
     "type": "noun"
   },
   {
     "rank": 131,
     "es": "barco",
+    "pronunciation": "BAR-koh",
     "en": "boat",
     "type": "noun"
   },
   {
     "rank": 132,
     "es": "techo",
+    "pronunciation": "TEH-choh",
     "en": "roof/ceiling",
     "type": "noun"
   },
   {
     "rank": 133,
     "es": "suelo",
+    "pronunciation": "SWEH-loh",
     "en": "floor/ground",
     "type": "noun"
   },
   {
     "rank": 134,
     "es": "pared",
+    "pronunciation": "pah-RETH",
     "en": "wall",
     "type": "noun"
   },
   {
     "rank": 135,
     "es": "cocina",
+    "pronunciation": "koh-THEE-nah",
     "en": "kitchen",
     "type": "noun"
   },
   {
     "rank": 136,
     "es": "baño",
+    "pronunciation": "BAH-nyoh",
     "en": "bathroom",
     "type": "noun"
   },
   {
     "rank": 137,
     "es": "sala",
+    "pronunciation": "SAH-lah",
     "en": "room/living room",
     "type": "noun"
   },
   {
     "rank": 138,
     "es": "comedor",
+    "pronunciation": "koh-meh-DOR",
     "en": "dining room",
     "type": "noun"
   },
   {
     "rank": 139,
     "es": "jardín",
+    "pronunciation": "khar-DEEN",
     "en": "garden",
     "type": "noun"
   },
   {
     "rank": 140,
     "es": "garaje",
+    "pronunciation": "gah-RAH-khay",
     "en": "garage",
     "type": "noun"
   },
   {
     "rank": 141,
     "es": "edificio",
+    "pronunciation": "eh-dee-FEE-thyoh",
     "en": "building",
     "type": "noun"
   },
   {
     "rank": 142,
     "es": "oficina",
+    "pronunciation": "oh-fee-THEE-nah",
     "en": "office",
     "type": "noun"
   },
   {
     "rank": 143,
     "es": "escuela",
+    "pronunciation": "es-KWEH-lah",
     "en": "school",
     "type": "noun"
   },
   {
     "rank": 144,
     "es": "universidad",
+    "pronunciation": "oo-nee-behr-see-DAHTH",
     "en": "university",
     "type": "noun"
   },
   {
     "rank": 145,
     "es": "hospital",
+    "pronunciation": "os-pee-TAHL",
     "en": "hospital",
     "type": "noun"
   },
   {
     "rank": 146,
     "es": "iglesia",
+    "pronunciation": "ee-GLEH-syah",
     "en": "church",
     "type": "noun"
   },
   {
     "rank": 147,
     "es": "tienda",
+    "pronunciation": "TYEN-dah",
     "en": "store",
     "type": "noun"
   },
   {
     "rank": 148,
     "es": "mercado",
+    "pronunciation": "mehr-KAH-doh",
     "en": "market",
     "type": "noun"
   },
   {
     "rank": 149,
     "es": "restaurante",
+    "pronunciation": "rres-tow-RAHN-tay",
     "en": "restaurant",
     "type": "noun"
   },
   {
     "rank": 150,
     "es": "hotel",
+    "pronunciation": "oh-TEL",
     "en": "hotel",
     "type": "noun"
   },
   {
     "rank": 151,
     "es": "banco",
+    "pronunciation": "BAHN-koh",
     "en": "bank",
     "type": "noun"
   },
   {
     "rank": 152,
     "es": "parque",
+    "pronunciation": "PAR-kay",
     "en": "park",
     "type": "noun"
   },
   {
     "rank": 153,
     "es": "playa",
+    "pronunciation": "PLAH-yah",
     "en": "beach",
     "type": "noun"
   },
   {
     "rank": 154,
     "es": "montaña",
+    "pronunciation": "mon-TAH-nyah",
     "en": "mountain",
     "type": "noun"
   },
   {
     "rank": 155,
     "es": "río",
+    "pronunciation": "RREE-oh",
     "en": "river",
     "type": "noun"
   },
   {
     "rank": 156,
     "es": "lago",
+    "pronunciation": "LAH-goh",
     "en": "lake",
     "type": "noun"
   },
   {
     "rank": 157,
     "es": "isla",
+    "pronunciation": "EES-lah",
     "en": "island",
     "type": "noun"
   },
   {
     "rank": 158,
     "es": "bosque",
+    "pronunciation": "BOS-kay",
     "en": "forest",
     "type": "noun"
   },
   {
     "rank": 159,
     "es": "árbol",
+    "pronunciation": "AR-bol",
     "en": "tree",
     "type": "noun"
   },
   {
     "rank": 160,
     "es": "flor",
+    "pronunciation": "FLOR",
     "en": "flower",
     "type": "noun"
   },
   {
     "rank": 161,
     "es": "planta",
+    "pronunciation": "PLAHN-tah",
     "en": "plant",
     "type": "noun"
   },
   {
     "rank": 162,
     "es": "hoja",
+    "pronunciation": "OH-khah",
     "en": "leaf/sheet",
     "type": "noun"
   },
   {
     "rank": 163,
     "es": "fruta",
+    "pronunciation": "FROO-tah",
     "en": "fruit",
     "type": "noun"
   },
   {
     "rank": 164,
     "es": "manzana",
+    "pronunciation": "mahn-THAH-nah",
     "en": "apple",
     "type": "noun"
   },
   {
     "rank": 165,
     "es": "naranja",
+    "pronunciation": "nah-RAHN-khah",
     "en": "orange",
     "type": "noun"
   },
   {
     "rank": 166,
     "es": "plátano",
+    "pronunciation": "PLAH-tah-noh",
     "en": "banana",
     "type": "noun"
   },
   {
     "rank": 167,
     "es": "uva",
+    "pronunciation": "OO-bah",
     "en": "grape",
     "type": "noun"
   },
   {
     "rank": 168,
     "es": "pan",
+    "pronunciation": "PAHN",
     "en": "bread",
     "type": "noun"
   },
   {
     "rank": 169,
     "es": "leche",
+    "pronunciation": "LEH-chay",
     "en": "milk",
     "type": "noun"
   },
   {
     "rank": 170,
     "es": "queso",
+    "pronunciation": "KEH-soh",
     "en": "cheese",
     "type": "noun"
   },
   {
     "rank": 171,
     "es": "carne",
+    "pronunciation": "KAR-nay",
     "en": "meat",
     "type": "noun"
   },
   {
     "rank": 172,
     "es": "pollo",
+    "pronunciation": "POH-lyoh",
     "en": "chicken",
     "type": "noun"
   },
   {
     "rank": 173,
     "es": "pescado",
+    "pronunciation": "pes-KAH-doh",
     "en": "fish",
     "type": "noun"
   },
   {
     "rank": 174,
     "es": "huevo",
+    "pronunciation": "WEH-boh",
     "en": "egg",
     "type": "noun"
   },
   {
     "rank": 175,
     "es": "arroz",
+    "pronunciation": "ah-RROTH",
     "en": "rice",
     "type": "noun"
   },
   {
     "rank": 176,
     "es": "azúcar",
+    "pronunciation": "ah-THOO-kar",
     "en": "sugar",
     "type": "noun"
   },
   {
     "rank": 177,
     "es": "sal",
+    "pronunciation": "SAHL",
     "en": "salt",
     "type": "noun"
   },
   {
     "rank": 178,
     "es": "café",
+    "pronunciation": "kah-FAY",
     "en": "coffee",
     "type": "noun"
   },
   {
     "rank": 179,
     "es": "té",
+    "pronunciation": "TAY",
     "en": "tea",
     "type": "noun"
   },
   {
     "rank": 180,
     "es": "vino",
+    "pronunciation": "BEE-noh",
     "en": "wine",
     "type": "noun"
   },
   {
     "rank": 181,
     "es": "cerveza",
+    "pronunciation": "thehr-BEH-thah",
     "en": "beer",
     "type": "noun"
   },
   {
     "rank": 182,
     "es": "comida",
+    "pronunciation": "koh-MEE-dah",
     "en": "food/meal",
     "type": "noun"
   },
   {
     "rank": 183,
     "es": "cena",
+    "pronunciation": "THEH-nah",
     "en": "dinner",
     "type": "noun"
   },
   {
     "rank": 184,
     "es": "almuerzo",
+    "pronunciation": "ahl-MWEHR-thoh",
     "en": "lunch",
     "type": "noun"
   },
   {
     "rank": 185,
     "es": "desayuno",
+    "pronunciation": "deh-sah-YOO-noh",
     "en": "breakfast",
     "type": "noun"
   },
   {
     "rank": 186,
     "es": "perro",
+    "pronunciation": "PEH-rroh",
     "en": "dog",
     "type": "noun"
   },
   {
     "rank": 187,
     "es": "gato",
+    "pronunciation": "GAH-toh",
     "en": "cat",
     "type": "noun"
   },
   {
     "rank": 188,
     "es": "caballo",
+    "pronunciation": "kah-BAH-lyoh",
     "en": "horse",
     "type": "noun"
   },
   {
     "rank": 189,
     "es": "vaca",
+    "pronunciation": "BAH-kah",
     "en": "cow",
     "type": "noun"
   },
   {
     "rank": 190,
     "es": "cerdo",
+    "pronunciation": "THEHR-doh",
     "en": "pig",
     "type": "noun"
   },
   {
     "rank": 191,
     "es": "pájaro",
+    "pronunciation": "PAH-khah-roh",
     "en": "bird",
     "type": "noun"
   },
   {
     "rank": 192,
     "es": "pez",
+    "pronunciation": "PETH",
     "en": "fish (live)",
     "type": "noun"
   },
   {
     "rank": 193,
     "es": "animal",
+    "pronunciation": "ah-nee-MAHL",
     "en": "animal",
     "type": "noun"
   },
   {
     "rank": 194,
     "es": "ropa",
+    "pronunciation": "RROH-pah",
     "en": "clothing",
     "type": "noun"
   },
   {
     "rank": 195,
     "es": "camisa",
+    "pronunciation": "kah-MEE-sah",
     "en": "shirt",
     "type": "noun"
   },
   {
     "rank": 196,
     "es": "pantalón",
+    "pronunciation": "pahn-tah-LON",
     "en": "pants",
     "type": "noun"
   },
   {
     "rank": 197,
     "es": "vestido",
+    "pronunciation": "bes-TEE-doh",
     "en": "dress",
     "type": "noun"
   },
   {
     "rank": 198,
     "es": "zapato",
+    "pronunciation": "thah-PAH-toh",
     "en": "shoe",
     "type": "noun"
   },
   {
     "rank": 199,
     "es": "sombrero",
+    "pronunciation": "som-BREH-roh",
     "en": "hat",
     "type": "noun"
   },
   {
     "rank": 200,
     "es": "abrigo",
+    "pronunciation": "ah-BREE-goh",
     "en": "coat",
     "type": "noun"
   },
   {
     "rank": 201,
     "es": "chaqueta",
+    "pronunciation": "chah-KEH-tah",
     "en": "jacket",
     "type": "noun"
   },
   {
     "rank": 202,
     "es": "falda",
+    "pronunciation": "FAHL-dah",
     "en": "skirt",
     "type": "noun"
   },
   {
     "rank": 203,
     "es": "calcetín",
+    "pronunciation": "kahl-theh-TEEN",
     "en": "sock",
     "type": "noun"
   },
   {
     "rank": 204,
     "es": "guante",
+    "pronunciation": "GWAHN-tay",
     "en": "glove",
     "type": "noun"
   },
   {
     "rank": 205,
     "es": "bufanda",
+    "pronunciation": "boo-FAHN-dah",
     "en": "scarf",
     "type": "noun"
   },
   {
     "rank": 206,
     "es": "bolso",
+    "pronunciation": "BOL-soh",
     "en": "bag/purse",
     "type": "noun"
   },
   {
     "rank": 207,
     "es": "mochila",
+    "pronunciation": "moh-CHEE-lah",
     "en": "backpack",
     "type": "noun"
   },
   {
     "rank": 208,
     "es": "reloj",
+    "pronunciation": "rreh-LOKH",
     "en": "watch/clock",
     "type": "noun"
   },
   {
     "rank": 209,
     "es": "anillo",
+    "pronunciation": "ah-NEE-lyoh",
     "en": "ring",
     "type": "noun"
   },
   {
     "rank": 210,
     "es": "collar",
+    "pronunciation": "koh-LYAR",
     "en": "necklace",
     "type": "noun"
   },
   {
     "rank": 211,
     "es": "pulsera",
+    "pronunciation": "pool-SEH-rah",
     "en": "bracelet",
     "type": "noun"
   },
   {
     "rank": 212,
     "es": "gafas",
+    "pronunciation": "GAH-fahs",
     "en": "glasses",
     "type": "noun"
   },
   {
     "rank": 213,
     "es": "lápiz",
+    "pronunciation": "LAH-peeth",
     "en": "pencil",
     "type": "noun"
   },
   {
     "rank": 214,
     "es": "pluma",
+    "pronunciation": "PLOO-mah",
     "en": "pen/feather",
     "type": "noun"
   },
   {
     "rank": 215,
     "es": "cuaderno",
+    "pronunciation": "kwah-DEHR-noh",
     "en": "notebook",
     "type": "noun"
   },
   {
     "rank": 216,
     "es": "regla",
+    "pronunciation": "RREH-glah",
     "en": "ruler/rule",
     "type": "noun"
   },
   {
     "rank": 217,
     "es": "goma",
+    "pronunciation": "GOH-mah",
     "en": "eraser/rubber",
     "type": "noun"
   },
   {
     "rank": 218,
     "es": "tijera",
+    "pronunciation": "tee-KHEH-rah",
     "en": "scissors",
     "type": "noun"
   },
   {
     "rank": 219,
     "es": "ordenador",
+    "pronunciation": "or-deh-nah-DOR",
     "en": "computer",
     "type": "noun"
   },
   {
     "rank": 220,
     "es": "computadora",
+    "pronunciation": "kom-poo-tah-DOH-rah",
     "en": "computer",
     "type": "noun"
   },
   {
     "rank": 221,
     "es": "teléfono",
+    "pronunciation": "teh-LEH-foh-noh",
     "en": "telephone",
     "type": "noun"
   },
   {
     "rank": 222,
     "es": "móvil",
+    "pronunciation": "MOH-beel",
     "en": "mobile/cellphone",
     "type": "noun"
   },
   {
     "rank": 223,
     "es": "celular",
+    "pronunciation": "theh-loo-LAR",
     "en": "cellphone",
     "type": "noun"
   },
   {
     "rank": 224,
     "es": "televisión",
+    "pronunciation": "teh-leh-bee-SYON",
     "en": "television",
     "type": "noun"
   },
   {
     "rank": 225,
     "es": "radio",
+    "pronunciation": "RRAH-dyoh",
     "en": "radio",
     "type": "noun"
   },
   {
     "rank": 226,
     "es": "cámara",
+    "pronunciation": "KAH-mah-rah",
     "en": "camera",
     "type": "noun"
   },
   {
     "rank": 227,
     "es": "película",
+    "pronunciation": "peh-LEE-koo-lah",
     "en": "film/movie",
     "type": "noun"
   },
   {
     "rank": 228,
     "es": "canción",
+    "pronunciation": "kahn-THYON",
     "en": "song",
     "type": "noun"
   },
   {
     "rank": 229,
     "es": "baile",
+    "pronunciation": "BAI-lay",
     "en": "dance",
     "type": "noun"
   },
   {
     "rank": 230,
     "es": "fiesta",
+    "pronunciation": "FYES-tah",
     "en": "party",
     "type": "noun"
   },
   {
     "rank": 231,
     "es": "juego",
+    "pronunciation": "KHWEH-goh",
     "en": "game",
     "type": "noun"
   },
   {
     "rank": 232,
     "es": "deporte",
+    "pronunciation": "deh-POR-tay",
     "en": "sport",
     "type": "noun"
   },
   {
     "rank": 233,
     "es": "fútbol",
+    "pronunciation": "FOOT-bol",
     "en": "soccer",
     "type": "noun"
   },
   {
     "rank": 234,
     "es": "tenis",
+    "pronunciation": "TEH-nees",
     "en": "tennis",
     "type": "noun"
   },
   {
     "rank": 235,
     "es": "equipo",
+    "pronunciation": "eh-KEE-poh",
     "en": "team/equipment",
     "type": "noun"
   },
   {
     "rank": 236,
     "es": "partido",
+    "pronunciation": "par-TEE-doh",
     "en": "match/party",
     "type": "noun"
   },
   {
     "rank": 237,
     "es": "pelota",
+    "pronunciation": "peh-LOH-tah",
     "en": "ball",
     "type": "noun"
   },
   {
     "rank": 238,
     "es": "balón",
+    "pronunciation": "bah-LON",
     "en": "ball",
     "type": "noun"
   },
   {
     "rank": 239,
     "es": "premio",
+    "pronunciation": "PREH-myoh",
     "en": "prize/award",
     "type": "noun"
   },
   {
     "rank": 240,
     "es": "regalo",
+    "pronunciation": "rreh-GAH-loh",
     "en": "gift",
     "type": "noun"
   },
   {
     "rank": 241,
     "es": "sorpresa",
+    "pronunciation": "sor-PREH-sah",
     "en": "surprise",
     "type": "noun"
   },
   {
     "rank": 242,
     "es": "secreto",
+    "pronunciation": "seh-KREH-toh",
     "en": "secret",
     "type": "noun"
   },
   {
     "rank": 243,
     "es": "mentira",
+    "pronunciation": "men-TEE-rah",
     "en": "lie",
     "type": "noun"
   },
   {
     "rank": 244,
     "es": "broma",
+    "pronunciation": "BROH-mah",
     "en": "joke",
     "type": "noun"
   },
   {
     "rank": 245,
     "es": "sonrisa",
+    "pronunciation": "son-RREE-sah",
     "en": "smile",
     "type": "noun"
   },
   {
     "rank": 246,
     "es": "risa",
+    "pronunciation": "RREE-sah",
     "en": "laugh",
     "type": "noun"
   },
   {
     "rank": 247,
     "es": "llanto",
+    "pronunciation": "LYAHN-toh",
     "en": "cry/weeping",
     "type": "noun"
   },
   {
     "rank": 248,
     "es": "lágrima",
+    "pronunciation": "LAH-gree-mah",
     "en": "tear",
     "type": "noun"
   },
   {
     "rank": 249,
     "es": "sueño",
+    "pronunciation": "SWEH-nyoh",
     "en": "dream/sleep",
     "type": "noun"
   },
   {
     "rank": 250,
     "es": "pesadilla",
+    "pronunciation": "peh-sah-DEE-lyah",
     "en": "nightmare",
     "type": "noun"
   },
   {
     "rank": 251,
     "es": "recuerdo",
+    "pronunciation": "rreh-KWEHR-doh",
     "en": "memory",
     "type": "noun"
   },
   {
     "rank": 252,
     "es": "memoria",
+    "pronunciation": "meh-MOH-ryah",
     "en": "memory",
     "type": "noun"
   },
   {
     "rank": 253,
     "es": "olvido",
+    "pronunciation": "ol-BEE-doh",
     "en": "forgetfulness",
     "type": "noun"
   },
   {
     "rank": 254,
     "es": "duda",
+    "pronunciation": "DOO-dah",
     "en": "doubt",
     "type": "noun"
   },
   {
     "rank": 255,
     "es": "pregunta",
+    "pronunciation": "preh-GOON-tah",
     "en": "question",
     "type": "noun"
   },
   {
     "rank": 256,
     "es": "respuesta",
+    "pronunciation": "rres-PWES-tah",
     "en": "answer",
     "type": "noun"
   },
   {
     "rank": 257,
     "es": "solución",
+    "pronunciation": "soh-loo-THYON",
     "en": "solution",
     "type": "noun"
   },
   {
     "rank": 258,
     "es": "decisión",
+    "pronunciation": "deh-thee-SYON",
     "en": "decision",
     "type": "noun"
   },
   {
     "rank": 259,
     "es": "opción",
+    "pronunciation": "op-THYON",
     "en": "option",
     "type": "noun"
   },
   {
     "rank": 260,
     "es": "elección",
+    "pronunciation": "eh-lek-THYON",
     "en": "election/choice",
     "type": "noun"
   },
   {
     "rank": 261,
     "es": "voto",
+    "pronunciation": "BOH-toh",
     "en": "vote",
     "type": "noun"
   },
   {
     "rank": 262,
     "es": "candidato",
+    "pronunciation": "kahn-dee-DAH-toh",
     "en": "candidate",
     "type": "noun"
   },
   {
     "rank": 263,
     "es": "política",
+    "pronunciation": "poh-LEE-tee-kah",
     "en": "politics",
     "type": "noun"
   },
   {
     "rank": 264,
     "es": "economía",
+    "pronunciation": "eh-koh-noh-MEE-ah",
     "en": "economy",
     "type": "noun"
   },
   {
     "rank": 265,
     "es": "negocio",
+    "pronunciation": "neh-GOH-thyoh",
     "en": "business",
     "type": "noun"
   },
   {
     "rank": 266,
     "es": "dinero",
+    "pronunciation": "dee-NEH-roh",
     "en": "money",
     "type": "noun"
   },
   {
     "rank": 267,
     "es": "moneda",
+    "pronunciation": "moh-NEH-dah",
     "en": "coin/currency",
     "type": "noun"
   },
   {
     "rank": 268,
     "es": "billete",
+    "pronunciation": "bee-LYEH-tay",
     "en": "bill/ticket",
     "type": "noun"
   },
   {
     "rank": 269,
     "es": "precio",
+    "pronunciation": "PREH-thyoh",
     "en": "price",
     "type": "noun"
   },
   {
     "rank": 270,
     "es": "costo",
+    "pronunciation": "KOS-toh",
     "en": "cost",
     "type": "noun"
   },
   {
     "rank": 271,
     "es": "compra",
+    "pronunciation": "KOM-prah",
     "en": "purchase",
     "type": "noun"
   },
   {
     "rank": 272,
     "es": "venta",
+    "pronunciation": "BEN-tah",
     "en": "sale",
     "type": "noun"
   },
   {
     "rank": 273,
     "es": "producto",
+    "pronunciation": "proh-DOOK-toh",
     "en": "product",
     "type": "noun"
   },
   {
     "rank": 274,
     "es": "marca",
+    "pronunciation": "MAR-kah",
     "en": "brand",
     "type": "noun"
   },
   {
     "rank": 275,
     "es": "modelo",
+    "pronunciation": "moh-DEH-loh",
     "en": "model",
     "type": "noun"
   },
   {
     "rank": 276,
     "es": "diseño",
+    "pronunciation": "dee-SEH-nyoh",
     "en": "design",
     "type": "noun"
   },
   {
     "rank": 277,
     "es": "arte",
+    "pronunciation": "AR-tay",
     "en": "art",
     "type": "noun"
   },
   {
     "rank": 278,
     "es": "pintura",
+    "pronunciation": "peen-TOO-rah",
     "en": "painting",
     "type": "noun"
   },
   {
     "rank": 279,
     "es": "escultura",
+    "pronunciation": "es-kool-TOO-rah",
     "en": "sculpture",
     "type": "noun"
   },
   {
     "rank": 280,
     "es": "foto",
+    "pronunciation": "FOH-toh",
     "en": "photo",
     "type": "noun"
   },
   {
     "rank": 281,
     "es": "fotografía",
+    "pronunciation": "foh-toh-grah-FEE-ah",
     "en": "photograph",
     "type": "noun"
   },
   {
     "rank": 282,
     "es": "dibujo",
+    "pronunciation": "dee-BOO-khoh",
     "en": "drawing",
     "type": "noun"
   },
   {
     "rank": 283,
     "es": "cuadro",
+    "pronunciation": "KWAH-droh",
     "en": "painting/picture",
     "type": "noun"
   },
   {
     "rank": 284,
     "es": "museo",
+    "pronunciation": "moo-SEH-oh",
     "en": "museum",
     "type": "noun"
   },
   {
     "rank": 285,
     "es": "teatro",
+    "pronunciation": "teh-AH-troh",
     "en": "theater",
     "type": "noun"
   },
   {
     "rank": 286,
     "es": "cine",
+    "pronunciation": "THEE-nay",
     "en": "cinema",
     "type": "noun"
   },
   {
     "rank": 287,
     "es": "escenario",
+    "pronunciation": "es-theh-NAH-ryoh",
     "en": "stage/scenario",
     "type": "noun"
   },
   {
     "rank": 288,
     "es": "actor",
+    "pronunciation": "ahk-TOR",
     "en": "actor",
     "type": "noun"
   },
   {
     "rank": 289,
     "es": "actriz",
+    "pronunciation": "ahk-TREETH",
     "en": "actress",
     "type": "noun"
   },
   {
     "rank": 290,
     "es": "director",
+    "pronunciation": "dee-rek-TOR",
     "en": "director",
     "type": "noun"
   },
   {
     "rank": 291,
     "es": "autor",
+    "pronunciation": "ow-TOR",
     "en": "author",
     "type": "noun"
   },
   {
     "rank": 292,
     "es": "escritor",
+    "pronunciation": "es-kree-TOR",
     "en": "writer",
     "type": "noun"
   },
   {
     "rank": 293,
     "es": "lector",
+    "pronunciation": "lek-TOR",
     "en": "reader",
     "type": "noun"
   },
   {
     "rank": 294,
     "es": "novela",
+    "pronunciation": "noh-BEH-lah",
     "en": "novel",
     "type": "noun"
   },
   {
     "rank": 295,
     "es": "cuento",
+    "pronunciation": "KWEN-toh",
     "en": "story/tale",
     "type": "noun"
   },
   {
     "rank": 296,
     "es": "poema",
+    "pronunciation": "poh-EH-mah",
     "en": "poem",
     "type": "noun"
   },
   {
     "rank": 297,
     "es": "poesía",
+    "pronunciation": "poh-eh-SEE-ah",
     "en": "poetry",
     "type": "noun"
   },
   {
     "rank": 298,
     "es": "literatura",
+    "pronunciation": "lee-teh-rah-TOO-rah",
     "en": "literature",
     "type": "noun"
   },
   {
     "rank": 299,
     "es": "ciencia",
+    "pronunciation": "THYEN-thyah",
     "en": "science",
     "type": "noun"
   },
   {
     "rank": 300,
     "es": "tecnología",
+    "pronunciation": "tek-noh-loh-KHEE-ah",
     "en": "technology",
     "type": "noun"
   },
   {
     "rank": 301,
     "es": "investigación",
+    "pronunciation": "een-bes-tee-gah-THYON",
     "en": "research",
     "type": "noun"
   },
   {
     "rank": 302,
     "es": "descubrimiento",
+    "pronunciation": "des-koo-bree-MYEN-toh",
     "en": "discovery",
     "type": "noun"
   },
   {
     "rank": 303,
     "es": "invento",
+    "pronunciation": "een-BEN-toh",
     "en": "invention",
     "type": "noun"
   },
   {
     "rank": 304,
     "es": "máquina",
+    "pronunciation": "MAH-kee-nah",
     "en": "machine",
     "type": "noun"
   },
   {
     "rank": 305,
     "es": "motor",
+    "pronunciation": "moh-TOR",
     "en": "engine/motor",
     "type": "noun"
   },
   {
     "rank": 306,
     "es": "energía",
+    "pronunciation": "eh-nehr-KHEE-ah",
     "en": "energy",
     "type": "noun"
   },
   {
     "rank": 307,
     "es": "electricidad",
+    "pronunciation": "eh-lek-tree-thee-DAHTH",
     "en": "electricity",
     "type": "noun"
   },
   {
     "rank": 308,
     "es": "gas",
+    "pronunciation": "GAHS",
     "en": "gas",
     "type": "noun"
   },
   {
     "rank": 309,
     "es": "petróleo",
+    "pronunciation": "peh-TROH-leh-oh",
     "en": "petroleum/oil",
     "type": "noun"
   },
   {
     "rank": 310,
     "es": "aceite",
+    "pronunciation": "ah-THAY-tay",
     "en": "oil",
     "type": "noun"
   },
   {
     "rank": 311,
     "es": "metal",
+    "pronunciation": "meh-TAHL",
     "en": "metal",
     "type": "noun"
   },
   {
     "rank": 312,
     "es": "oro",
+    "pronunciation": "OH-roh",
     "en": "gold",
     "type": "noun"
   },
   {
     "rank": 313,
     "es": "plata",
+    "pronunciation": "PLAH-tah",
     "en": "silver",
     "type": "noun"
   },
   {
     "rank": 314,
     "es": "hierro",
+    "pronunciation": "YEH-rroh",
     "en": "iron",
     "type": "noun"
   },
   {
     "rank": 315,
     "es": "madera",
+    "pronunciation": "mah-DEH-rah",
     "en": "wood",
     "type": "noun"
   },
   {
     "rank": 316,
     "es": "piedra",
+    "pronunciation": "PYEH-drah",
     "en": "stone",
     "type": "noun"
   },
   {
     "rank": 317,
     "es": "vidrio",
+    "pronunciation": "BEE-dryoh",
     "en": "glass",
     "type": "noun"
   },
   {
     "rank": 318,
     "es": "plástico",
+    "pronunciation": "PLAHS-tee-koh",
     "en": "plastic",
     "type": "noun"
   },
   {
     "rank": 319,
     "es": "tela",
+    "pronunciation": "TEH-lah",
     "en": "fabric",
     "type": "noun"
   },
   {
     "rank": 320,
     "es": "cuero",
+    "pronunciation": "KWEH-roh",
     "en": "leather",
     "type": "noun"
   },
   {
     "rank": 321,
     "es": "lana",
+    "pronunciation": "LAH-nah",
     "en": "wool",
     "type": "noun"
   },
   {
     "rank": 322,
     "es": "algodón",
+    "pronunciation": "ahl-goh-DON",
     "en": "cotton",
     "type": "noun"
   },
   {
     "rank": 323,
     "es": "cuerda",
+    "pronunciation": "KWEHR-dah",
     "en": "rope/string",
     "type": "noun"
   },
   {
     "rank": 324,
     "es": "hilo",
+    "pronunciation": "EE-loh",
     "en": "thread",
     "type": "noun"
   },
   {
     "rank": 325,
     "es": "aguja",
+    "pronunciation": "ah-GOO-khah",
     "en": "needle",
     "type": "noun"
   },
   {
     "rank": 326,
     "es": "botón",
+    "pronunciation": "boh-TON",
     "en": "button",
     "type": "noun"
   },
   {
     "rank": 327,
     "es": "llave",
+    "pronunciation": "LYAH-bay",
     "en": "key",
     "type": "noun"
   },
   {
     "rank": 328,
     "es": "candado",
+    "pronunciation": "kahn-DAH-doh",
     "en": "padlock",
     "type": "noun"
   },
   {
     "rank": 329,
     "es": "caja",
+    "pronunciation": "KAH-khah",
     "en": "box",
     "type": "noun"
   },
   {
     "rank": 330,
     "es": "bolsa",
+    "pronunciation": "BOL-sah",
     "en": "bag",
     "type": "noun"
   },
   {
     "rank": 331,
     "es": "botella",
+    "pronunciation": "boh-TEH-lyah",
     "en": "bottle",
     "type": "noun"
   },
   {
     "rank": 332,
     "es": "vaso",
+    "pronunciation": "BAH-soh",
     "en": "glass/cup",
     "type": "noun"
   },
   {
     "rank": 333,
     "es": "taza",
+    "pronunciation": "TAH-thah",
     "en": "cup/mug",
     "type": "noun"
   },
   {
     "rank": 334,
     "es": "plato",
+    "pronunciation": "PLAH-toh",
     "en": "plate/dish",
     "type": "noun"
   },
   {
     "rank": 335,
     "es": "tenedor",
+    "pronunciation": "teh-neh-DOR",
     "en": "fork",
     "type": "noun"
   },
   {
     "rank": 336,
     "es": "cuchillo",
+    "pronunciation": "koo-CHEE-lyoh",
     "en": "knife",
     "type": "noun"
   },
   {
     "rank": 337,
     "es": "cuchara",
+    "pronunciation": "koo-CHAH-rah",
     "en": "spoon",
     "type": "noun"
   },
   {
     "rank": 338,
     "es": "olla",
+    "pronunciation": "OH-lyah",
     "en": "pot",
     "type": "noun"
   },
   {
     "rank": 339,
     "es": "sartén",
+    "pronunciation": "sar-TEN",
     "en": "frying pan",
     "type": "noun"
   },
   {
     "rank": 340,
     "es": "horno",
+    "pronunciation": "OR-noh",
     "en": "oven",
     "type": "noun"
   },
   {
     "rank": 341,
     "es": "nevera",
+    "pronunciation": "neh-BEH-rah",
     "en": "fridge",
     "type": "noun"
   },
   {
     "rank": 342,
     "es": "refrigerador",
+    "pronunciation": "rreh-free-kheh-rah-DOR",
     "en": "refrigerator",
     "type": "noun"
   },
   {
     "rank": 343,
     "es": "lavadora",
+    "pronunciation": "lah-bah-DOH-rah",
     "en": "washing machine",
     "type": "noun"
   },
   {
     "rank": 344,
     "es": "ducha",
+    "pronunciation": "DOO-chah",
     "en": "shower",
     "type": "noun"
   },
   {
     "rank": 345,
     "es": "espejo",
+    "pronunciation": "es-PEH-khoh",
     "en": "mirror",
     "type": "noun"
   },
   {
     "rank": 346,
     "es": "toalla",
+    "pronunciation": "toh-AH-lyah",
     "en": "towel",
     "type": "noun"
   },
   {
     "rank": 347,
     "es": "jabón",
+    "pronunciation": "khah-BON",
     "en": "soap",
     "type": "noun"
   },
   {
     "rank": 348,
     "es": "cepillo",
+    "pronunciation": "theh-PEE-lyoh",
     "en": "brush",
     "type": "noun"
   },
   {
     "rank": 349,
     "es": "peine",
+    "pronunciation": "PAY-nay",
     "en": "comb",
     "type": "noun"
   },
   {
     "rank": 350,
     "es": "diente",
+    "pronunciation": "DYEN-tay",
     "en": "tooth",
     "type": "noun"
   },
   {
     "rank": 351,
     "es": "labio",
+    "pronunciation": "LAH-byoh",
     "en": "lip",
     "type": "noun"
   },
   {
     "rank": 352,
     "es": "lengua",
+    "pronunciation": "LEN-gwah",
     "en": "tongue/language",
     "type": "noun"
   },
   {
     "rank": 353,
     "es": "oreja",
+    "pronunciation": "oh-REH-khah",
     "en": "ear",
     "type": "noun"
   },
   {
     "rank": 354,
     "es": "nariz",
+    "pronunciation": "nah-REETH",
     "en": "nose",
     "type": "noun"
   },
   {
     "rank": 355,
     "es": "ceja",
+    "pronunciation": "THEH-khah",
     "en": "eyebrow",
     "type": "noun"
   },
   {
     "rank": 356,
     "es": "pestaña",
+    "pronunciation": "pes-TAH-nyah",
     "en": "eyelash",
     "type": "noun"
   },
   {
     "rank": 357,
     "es": "pelo",
+    "pronunciation": "PEH-loh",
     "en": "hair",
     "type": "noun"
   },
   {
     "rank": 358,
     "es": "cabello",
+    "pronunciation": "kah-BEH-lyoh",
     "en": "hair",
     "type": "noun"
   },
   {
     "rank": 359,
     "es": "barba",
+    "pronunciation": "BAR-bah",
     "en": "beard",
     "type": "noun"
   },
   {
     "rank": 360,
     "es": "bigote",
+    "pronunciation": "bee-GOH-tay",
     "en": "mustache",
     "type": "noun"
   },
   {
     "rank": 361,
     "es": "piel",
+    "pronunciation": "PYEL",
     "en": "skin",
     "type": "noun"
   },
   {
     "rank": 362,
     "es": "hueso",
+    "pronunciation": "WEH-soh",
     "en": "bone",
     "type": "noun"
   },
   {
     "rank": 363,
     "es": "músculo",
+    "pronunciation": "MOOS-koo-loh",
     "en": "muscle",
     "type": "noun"
   },
   {
     "rank": 364,
     "es": "espalda",
+    "pronunciation": "es-PAHL-dah",
     "en": "back",
     "type": "noun"
   },
   {
     "rank": 365,
     "es": "hombro",
+    "pronunciation": "OM-broh",
     "en": "shoulder",
     "type": "noun"
   },
   {
     "rank": 366,
     "es": "codo",
+    "pronunciation": "KOH-doh",
     "en": "elbow",
     "type": "noun"
   },
   {
     "rank": 367,
     "es": "rodilla",
+    "pronunciation": "rroh-DEE-lyah",
     "en": "knee",
     "type": "noun"
   },
   {
     "rank": 368,
     "es": "tobillo",
+    "pronunciation": "toh-BEE-lyoh",
     "en": "ankle",
     "type": "noun"
   },
   {
     "rank": 369,
     "es": "dedo",
+    "pronunciation": "DEH-doh",
     "en": "finger",
     "type": "noun"
   },
   {
     "rank": 370,
     "es": "uña",
+    "pronunciation": "OO-nyah",
     "en": "fingernail",
     "type": "noun"
   },
   {
     "rank": 371,
     "es": "estómago",
+    "pronunciation": "es-TOH-mah-goh",
     "en": "stomach",
     "type": "noun"
   },
   {
     "rank": 372,
     "es": "espíritu",
+    "pronunciation": "es-PEE-ree-too",
     "en": "spirit",
     "type": "noun"
   },
   {
     "rank": 373,
     "es": "alma",
+    "pronunciation": "AHL-mah",
     "en": "soul",
     "type": "noun"
   },
   {
     "rank": 374,
     "es": "mente",
+    "pronunciation": "MEN-tay",
     "en": "mind",
     "type": "noun"
   },
   {
     "rank": 375,
     "es": "pensamiento",
+    "pronunciation": "pen-sah-MYEN-toh",
     "en": "thought",
     "type": "noun"
   },
   {
     "rank": 376,
     "es": "sentimiento",
+    "pronunciation": "sen-tee-MYEN-toh",
     "en": "feeling",
     "type": "noun"
   },
   {
     "rank": 377,
     "es": "emoción",
+    "pronunciation": "eh-moh-THYON",
     "en": "emotion",
     "type": "noun"
   },
   {
     "rank": 378,
     "es": "alegría",
+    "pronunciation": "ah-leh-GREE-ah",
     "en": "joy",
     "type": "noun"
   },
   {
     "rank": 379,
     "es": "tristeza",
+    "pronunciation": "trees-TEH-thah",
     "en": "sadness",
     "type": "noun"
   },
   {
     "rank": 380,
     "es": "felicidad",
+    "pronunciation": "feh-lee-thee-DAHTH",
     "en": "happiness",
     "type": "noun"
   },
   {
     "rank": 381,
     "es": "ira",
+    "pronunciation": "EE-rah",
     "en": "anger",
     "type": "noun"
   },
   {
     "rank": 382,
     "es": "rabia",
+    "pronunciation": "RRAH-byah",
     "en": "rage",
     "type": "noun"
   },
   {
     "rank": 383,
     "es": "celos",
+    "pronunciation": "THEH-los",
     "en": "jealousy",
     "type": "noun"
   },
   {
     "rank": 384,
     "es": "envidia",
+    "pronunciation": "en-BEE-dyah",
     "en": "envy",
     "type": "noun"
   },
   {
     "rank": 385,
     "es": "odio",
+    "pronunciation": "OH-dyoh",
     "en": "hate",
     "type": "noun"
   },
   {
     "rank": 386,
     "es": "paz",
+    "pronunciation": "PATH",
     "en": "peace",
     "type": "noun"
   },
   {
     "rank": 387,
     "es": "batalla",
+    "pronunciation": "bah-TAH-lyah",
     "en": "battle",
     "type": "noun"
   },
   {
     "rank": 388,
     "es": "ejército",
+    "pronunciation": "eh-KHEHR-thee-toh",
     "en": "army",
     "type": "noun"
   },
   {
     "rank": 389,
     "es": "soldado",
+    "pronunciation": "sol-DAH-doh",
     "en": "soldier",
     "type": "noun"
   },
   {
     "rank": 390,
     "es": "arma",
+    "pronunciation": "AR-mah",
     "en": "weapon",
     "type": "noun"
   },
   {
     "rank": 391,
     "es": "victoria",
+    "pronunciation": "beek-TOH-ryah",
     "en": "victory",
     "type": "noun"
   },
   {
     "rank": 392,
     "es": "derrota",
+    "pronunciation": "deh-RROH-tah",
     "en": "defeat",
     "type": "noun"
   },
   {
     "rank": 393,
     "es": "héroe",
+    "pronunciation": "EH-roh-ay",
     "en": "hero",
     "type": "noun"
   },
   {
     "rank": 394,
     "es": "enemigo",
+    "pronunciation": "eh-neh-MEE-goh",
     "en": "enemy",
     "type": "noun"
   },
   {
     "rank": 395,
     "es": "amistad",
+    "pronunciation": "ah-mees-TAHTH",
     "en": "friendship",
     "type": "noun"
   },
   {
     "rank": 396,
     "es": "pareja",
+    "pronunciation": "pah-REH-khah",
     "en": "couple/partner",
     "type": "noun"
   },
   {
     "rank": 397,
     "es": "novio",
+    "pronunciation": "NOH-byoh",
     "en": "boyfriend",
     "type": "noun"
   },
   {
     "rank": 398,
     "es": "novia",
+    "pronunciation": "NOH-byah",
     "en": "girlfriend",
     "type": "noun"
   },
   {
     "rank": 399,
     "es": "boda",
+    "pronunciation": "BOH-dah",
     "en": "wedding",
     "type": "noun"
   },
   {
     "rank": 400,
     "es": "matrimonio",
+    "pronunciation": "mah-tree-MOH-nyoh",
     "en": "marriage",
     "type": "noun"
   },
   {
     "rank": 401,
     "es": "divorcio",
+    "pronunciation": "dee-BOR-thyoh",
     "en": "divorce",
     "type": "noun"
   },
   {
     "rank": 402,
     "es": "bebé",
+    "pronunciation": "beh-BAY",
     "en": "baby",
     "type": "noun"
   },
   {
     "rank": 403,
     "es": "abuelo",
+    "pronunciation": "ah-BWEH-loh",
     "en": "grandfather",
     "type": "noun"
   },
   {
     "rank": 404,
     "es": "abuela",
+    "pronunciation": "ah-BWEH-lah",
     "en": "grandmother",
     "type": "noun"
   },
   {
     "rank": 405,
     "es": "tío",
+    "pronunciation": "TEE-oh",
     "en": "uncle",
     "type": "noun"
   },
   {
     "rank": 406,
     "es": "tía",
+    "pronunciation": "TEE-ah",
     "en": "aunt",
     "type": "noun"
   },
   {
     "rank": 407,
     "es": "primo",
+    "pronunciation": "PREE-moh",
     "en": "cousin (m)",
     "type": "noun"
   },
   {
     "rank": 408,
     "es": "prima",
+    "pronunciation": "PREE-mah",
     "en": "cousin (f)",
     "type": "noun"
   },
   {
     "rank": 409,
     "es": "sobrino",
+    "pronunciation": "soh-BREE-noh",
     "en": "nephew",
     "type": "noun"
   },
   {
     "rank": 410,
     "es": "sobrina",
+    "pronunciation": "soh-BREE-nah",
     "en": "niece",
     "type": "noun"
   },
   {
     "rank": 411,
     "es": "hermano",
+    "pronunciation": "ehr-MAH-noh",
     "en": "brother",
     "type": "noun"
   },
   {
     "rank": 412,
     "es": "hermana",
+    "pronunciation": "ehr-MAH-nah",
     "en": "sister",
     "type": "noun"
   },
   {
     "rank": 413,
     "es": "vecino",
+    "pronunciation": "beh-THEE-noh",
     "en": "neighbor",
     "type": "noun"
   },
   {
     "rank": 414,
     "es": "extranjero",
+    "pronunciation": "ex-trahn-KHEH-roh",
     "en": "foreigner",
     "type": "noun"
   },
   {
     "rank": 415,
     "es": "turista",
+    "pronunciation": "too-REES-tah",
     "en": "tourist",
     "type": "noun"
   },
   {
     "rank": 416,
     "es": "viajero",
+    "pronunciation": "byah-KHEH-roh",
     "en": "traveler",
     "type": "noun"
   },
   {
     "rank": 417,
     "es": "conductor",
+    "pronunciation": "kon-dook-TOR",
     "en": "driver",
     "type": "noun"
   },
   {
     "rank": 418,
     "es": "pasajero",
+    "pronunciation": "pah-sah-KHEH-roh",
     "en": "passenger",
     "type": "noun"
   },
   {
     "rank": 419,
     "es": "médico",
+    "pronunciation": "MEH-dee-koh",
     "en": "doctor",
     "type": "noun"
   },
   {
     "rank": 420,
     "es": "doctor",
+    "pronunciation": "dok-TOR",
     "en": "doctor",
     "type": "noun"
   },
   {
     "rank": 421,
     "es": "enfermero",
+    "pronunciation": "en-fehr-MEH-roh",
     "en": "nurse",
     "type": "noun"
   },
   {
     "rank": 422,
     "es": "paciente",
+    "pronunciation": "pah-THYEN-tay",
     "en": "patient",
     "type": "noun"
   },
   {
     "rank": 423,
     "es": "enfermedad",
+    "pronunciation": "en-fehr-meh-DAHTH",
     "en": "illness",
     "type": "noun"
   },
   {
     "rank": 424,
     "es": "salud",
+    "pronunciation": "sah-LOOTH",
     "en": "health",
     "type": "noun"
   },
   {
     "rank": 425,
     "es": "medicina",
+    "pronunciation": "meh-dee-THEE-nah",
     "en": "medicine",
     "type": "noun"
   },
   {
     "rank": 426,
     "es": "dolor",
+    "pronunciation": "doh-LOR",
     "en": "pain",
     "type": "noun"
   },
   {
     "rank": 427,
     "es": "fiebre",
+    "pronunciation": "FYEH-bray",
     "en": "fever",
     "type": "noun"
   },
   {
     "rank": 428,
     "es": "tos",
+    "pronunciation": "TOS",
     "en": "cough",
     "type": "noun"
   },
   {
     "rank": 429,
     "es": "profesor",
+    "pronunciation": "proh-feh-SOR",
     "en": "teacher",
     "type": "noun"
   },
   {
     "rank": 430,
     "es": "maestro",
+    "pronunciation": "mah-ES-troh",
     "en": "teacher/master",
     "type": "noun"
   },
   {
     "rank": 431,
     "es": "estudiante",
+    "pronunciation": "es-too-DYAHN-tay",
     "en": "student",
     "type": "noun"
   },
   {
     "rank": 432,
     "es": "alumno",
+    "pronunciation": "ah-LOOM-noh",
     "en": "pupil",
     "type": "noun"
   },
   {
     "rank": 433,
     "es": "clase",
+    "pronunciation": "KLAH-say",
     "en": "class",
     "type": "noun"
   },
   {
     "rank": 434,
     "es": "lección",
+    "pronunciation": "lek-THYON",
     "en": "lesson",
     "type": "noun"
   },
   {
     "rank": 435,
     "es": "examen",
+    "pronunciation": "ex-AH-men",
     "en": "exam",
     "type": "noun"
   },
   {
     "rank": 436,
     "es": "nota",
+    "pronunciation": "NOH-tah",
     "en": "note/grade",
     "type": "noun"
   },
   {
     "rank": 437,
     "es": "tarea",
+    "pronunciation": "tah-REH-ah",
     "en": "homework/task",
     "type": "noun"
   },
   {
     "rank": 438,
     "es": "luna",
+    "pronunciation": "LOO-nah",
     "en": "moon",
     "type": "noun"
   },
   {
     "rank": 439,
     "es": "sol",
+    "pronunciation": "SOL",
     "en": "sun",
     "type": "noun"
   },
   {
     "rank": 440,
     "es": "estrella",
+    "pronunciation": "es-TREH-lyah",
     "en": "star",
     "type": "noun"
   },
   {
     "rank": 441,
     "es": "cielo",
+    "pronunciation": "THYEH-loh",
     "en": "sky",
     "type": "noun"
   },
   {
     "rank": 442,
     "es": "nube",
+    "pronunciation": "NOO-bay",
     "en": "cloud",
     "type": "noun"
   },
   {
     "rank": 443,
     "es": "lluvia",
+    "pronunciation": "LYOO-byah",
     "en": "rain",
     "type": "noun"
   },
   {
     "rank": 444,
     "es": "nieve",
+    "pronunciation": "NYEH-bay",
     "en": "snow",
     "type": "noun"
   },
   {
     "rank": 445,
     "es": "viento",
+    "pronunciation": "BYEN-toh",
     "en": "wind",
     "type": "noun"
   },
   {
     "rank": 446,
     "es": "tormenta",
+    "pronunciation": "tor-MEN-tah",
     "en": "storm",
     "type": "noun"
   },
   {
     "rank": 447,
     "es": "verano",
+    "pronunciation": "beh-RAH-noh",
     "en": "summer",
     "type": "noun"
   },
   {
     "rank": 448,
     "es": "invierno",
+    "pronunciation": "een-BYEHR-noh",
     "en": "winter",
     "type": "noun"
   },
   {
     "rank": 449,
     "es": "primavera",
+    "pronunciation": "pree-mah-BEH-rah",
     "en": "spring",
     "type": "noun"
   },
   {
     "rank": 450,
     "es": "otoño",
+    "pronunciation": "oh-TOH-nyoh",
     "en": "autumn",
     "type": "noun"
   }
